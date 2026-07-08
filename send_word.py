@@ -8,7 +8,7 @@ import requests
 PUSH_URL = "https://api.line.me/v2/bot/message/push"
 WORDS_FILE = "words.csv"
 PROGRESS_FILE = "progress.json"
-WORDS_PER_DAY = 1  # 一天想送幾個字，改這個數字即可
+WORDS_PER_DAY = 10  # 一天想送幾個字，改這個數字即可
 
 
 def load_words():
@@ -38,8 +38,8 @@ def save_progress(progress):
 
 def build_message(picked):
     lines = ["📖 每日單字", "━━━━━━━━━━"]
-    for w in picked:
-        lines.append(f"{w['word']} ({w['pos']}) {w['meaning']}")
+    for i, w in enumerate(picked, 1):
+        lines.append(f"{i}. {w['word']} ({w['pos']}) {w['meaning']}")
         lines.append(f"例句：{w['example']}")
         lines.append(f"翻譯：{w['example_zh']}")
         lines.append("")
