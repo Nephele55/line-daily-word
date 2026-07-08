@@ -5,10 +5,12 @@ import sys
 
 import requests
 
-PUSH_URL = "https://api.line.me/v2/bot/message/push"
+PUSH_URL = "https://api.line.me/v2/bot/message/push"            # 指名發給一個人
+BROADCAST_URL = "https://api.line.me/v2/bot/message/broadcast"  # 發給所有好友
 WORDS_FILE = "words.csv"
 PROGRESS_FILE = "progress.json"
 WORDS_PER_DAY = 10  # 一天想送幾個字，改這個數字即可
+SEND_MODE = "broadcast"  # "broadcast"=所有好友都收到；改回 "push" 就只發給你自己
 
 
 def load_words():
@@ -46,21 +48,30 @@ def build_message(picked):
     return "\n".join(lines).rstrip()
 
 
-def push_to_line(text):
-    """呼叫 Messaging API 的 push endpoint。
-    push 是「指定 userId 發送」，和 broadcast（發給全部好友）不同：
-    額度可控，未來也能對不同學生推不同難度的字。"""
+def send_to_line(text):
+    """依 SEND_MODE 決定走哪個 endpoint。
+    push：指名發給 LINE_USER_ID 一個人，額度 = 每天 1 則。
+    broadcast：發給官方帳號的「所有好友」，額度 = 好友數 × 發送次數，
+    免費 200 則/月 ÷ 每月 30 天 ≈ 好友最多 6 人，超過會在月底前把額度吃光。"""
     token = os.environ["LINE_CHANNEL_ACCESS_TOKEN"]
-    user_id = os.environ["LINE_USER_ID"]
+    if SEND_MODE == "broadcast":
+        url = BROADCAST_URL
+        payload = {"messages": [{"type": "text", "text": text}]}  # broadcast 不需要 to
+    else:
+        url = PUSH_URL
+        payload = {
+            "to": os.environ["LINE_USER_ID"],  # 只有 push 模式才會讀這個 Secret
+            "messages": [{"type": "text", "text": text}],
+        }
     resp = requests.post(
-        PUSH_URL,
+        url,
         headers={"Authorization": f"Bearer {token}"},
-        json={"to": user_id, "messages": [{"type": "text", "text": text}]},
+        json=payload,
         timeout=10,
     )
     if resp.status_code != 200:
         # 把 LINE 回傳的錯誤內容印出來再讓 workflow 失敗，
-        # 這樣在 Actions log 一眼就能看出是 401（token 錯）還是 400（userId 錯）
+        # 401=token 錯、400=userId 或訊息格式錯、429=當月額度用完
         sys.exit(f"推播失敗 {resp.status_code}: {resp.text}")
 
 
@@ -71,7 +82,7 @@ def main():
     start = progress["index"] % len(words)  # 取餘數：字庫送完一輪自動從頭再來
     picked = [words[(start + i) % len(words)] for i in range(WORDS_PER_DAY)]
 
-    push_to_line(build_message(picked))
+    send_to_line(build_message(picked))
 
     progress["index"] = (start + WORDS_PER_DAY) % len(words)
     save_progress(progress)
