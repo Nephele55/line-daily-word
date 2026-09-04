@@ -1,401 +1,801 @@
 word,pos,meaning,example,example_zh,level
-emission,n.,排放；排放物,Factories must reduce their carbon emissions to meet the new standards.,工廠必須減少碳排放以符合新標準。,6.0
-deforestation,n.,森林砍伐,Deforestation has destroyed the habitats of countless species.,森林砍伐摧毀了無數物種的棲息地。,6.5
-biodiversity,n.,生物多樣性,Protecting biodiversity is essential for a healthy ecosystem.,保護生物多樣性對健康的生態系統至關重要。,6.5
-sustainable,adj.,永續的；可持續的,The government promotes sustainable development in rural areas.,政府在鄉村地區推動永續發展。,6.0
-renewable,adj.,可再生的,Solar power is one of the cleanest renewable energy sources.,太陽能是最乾淨的可再生能源之一。,6.0
-conservation,n.,保育；保護,Wildlife conservation requires cooperation between governments and local communities.,野生動物保育需要政府與在地社區合作。,6.0
-ecosystem,n.,生態系統,A single invasive species can disrupt an entire ecosystem.,單一外來種就可能破壞整個生態系統。,6.0
-habitat,n.,棲息地,Urban expansion is destroying the natural habitat of many animals.,都市擴張正在破壞許多動物的天然棲息地。,6.0
-endangered,adj.,瀕臨絕種的,Several endangered species live in this protected forest.,好幾種瀕危物種棲息在這片保護林中。,6.0
-extinction,n.,絕種；滅絕,Many scientists warn that we are facing a mass extinction.,許多科學家警告我們正面臨大滅絕。,6.5
-drought,n.,乾旱,The prolonged drought has severely damaged this year's harvest.,長期乾旱嚴重損害了今年的收成。,6.0
-erosion,n.,侵蝕,Planting trees along the coast helps prevent soil erosion.,沿海種樹有助於防止土壤侵蝕。,6.5
-depletion,n.,耗盡；枯竭,The depletion of natural resources threatens future generations.,自然資源的枯竭威脅著後代子孫。,7.0
-degradation,n.,退化；惡化,Environmental degradation is often the price of rapid industrialization.,環境惡化往往是快速工業化的代價。,7.0
-contaminate,v.,污染,Chemical waste from the plant contaminated the local water supply.,工廠的化學廢料污染了當地供水。,6.5
-disposal,n.,處理；丟棄,Proper waste disposal is a growing challenge for large cities.,妥善的廢棄物處理是大城市日益嚴峻的挑戰。,6.0
-landfill,n.,垃圾掩埋場,Most household waste still ends up in landfill sites.,大多數家庭垃圾最終仍進了掩埋場。,6.5
-pesticide,n.,殺蟲劑；農藥,Excessive use of pesticides can harm both soil and human health.,過度使用農藥會傷害土壤與人體健康。,6.5
-irrigation,n.,灌溉,Modern irrigation systems allow farming in dry regions.,現代灌溉系統讓乾燥地區也能耕作。,6.5
-scarcity,n.,稀缺；不足,Water scarcity affects nearly half of the world's population.,水資源短缺影響著全球近半數人口。,7.0
-catastrophe,n.,大災難,The oil spill was an environmental catastrophe for the region.,這次漏油事件對該地區是場環境浩劫。,7.0
-mitigate,v.,緩解；減輕,Governments are seeking ways to mitigate the effects of climate change.,各國政府正在尋求緩解氣候變遷影響的方法。,7.5
-preserve,v.,保存；維護,We have a duty to preserve these forests for future generations.,我們有責任為後代保存這些森林。,6.0
-deteriorate,v.,惡化,Air quality in the city has deteriorated rapidly over the past decade.,過去十年這座城市的空氣品質急速惡化。,6.5
-glacier,n.,冰河,Rising temperatures are causing glaciers to melt at an alarming rate.,氣溫上升使冰河以驚人的速度融化。,6.5
-sewage,n.,污水,Untreated sewage is still being discharged into the river.,未經處理的污水仍被排入河中。,7.0
-fumes,n.,廢氣；煙霧,Exhaust fumes from vehicles are a major source of urban pollution.,車輛廢氣是都市污染的主要來源。,6.5
-arable,adj.,可耕的,Only a small fraction of the country's land is arable.,這個國家只有一小部分土地可供耕作。,7.5
-barren,adj.,貧瘠的,Overgrazing has turned the once fertile plain into barren land.,過度放牧使曾經肥沃的平原變成不毛之地。,7.0
-fertile,adj.,肥沃的,The river delta is famous for its fertile farmland.,這片河口三角洲以肥沃的農地聞名。,6.5
-organic,adj.,有機的,Demand for organic produce has grown steadily in recent years.,近年來有機農產品的需求穩定成長。,6.0
-yield,n.,產量,New farming techniques have doubled the annual yield.,新的耕作技術使年產量翻倍。,6.5
-famine,n.,饑荒,The drought led to a famine that affected millions.,乾旱引發了影響數百萬人的饑荒。,6.5
-livestock,n.,牲畜,Raising livestock accounts for a large share of methane emissions.,畜牧業佔甲烷排放的一大部分。,6.5
-poaching,n.,盜獵,Strict laws have been introduced to stop the poaching of elephants.,當局已立下嚴法以遏止盜獵大象。,7.0
-sanctuary,n.,保護區；避難所,The island serves as a sanctuary for migratory birds.,這座島是候鳥的庇護所。,7.0
-vegetation,n.,植被,Dense vegetation covers the slopes of the mountain.,茂密的植被覆蓋著山坡。,6.5
-altitude,n.,海拔；高度,Few plants can survive at such a high altitude.,很少有植物能在這麼高的海拔存活。,6.0
-terrain,n.,地形,The rocky terrain makes farming almost impossible here.,多岩石的地形使這裡幾乎無法耕作。,7.0
-hazard,n.,危害；危險,Air pollution poses a serious health hazard to city residents.,空氣污染對都市居民構成嚴重的健康危害。,6.0
-toxic,adj.,有毒的,The factory released toxic chemicals into the atmosphere.,這家工廠將有毒化學物質排放到大氣中。,6.0
-radiation,n.,輻射,Workers at the plant are regularly checked for radiation exposure.,電廠員工定期接受輻射暴露檢查。,6.5
-reservoir,n.,水庫,The reservoir supplies drinking water to the entire city.,這座水庫供應全市的飲用水。,6.5
-evaporate,v.,蒸發,Much of the water evaporates before it reaches the crops.,大部分的水在到達農作物前就蒸發了。,6.5
-humidity,n.,濕度,High humidity makes the summer heat even harder to bear.,高濕度讓夏天的炎熱更難以忍受。,6.0
-precipitation,n.,降水,Annual precipitation in the region has dropped sharply.,該地區的年降水量急遽下降。,7.0
-monsoon,n.,季風,The monsoon season brings heavy rain to the region every summer.,每年夏天季風季為該地區帶來豪雨。,6.5
-thermal,adj.,熱的；溫度的,Iceland relies heavily on thermal energy from underground.,冰島高度依賴地底的熱能。,7.0
-offset,v.,抵銷,Airlines offer passengers schemes to offset their carbon footprint.,航空公司提供乘客抵銷碳足跡的方案。,7.0
-curb,v.,遏制；抑制,New regulations aim to curb plastic waste.,新法規旨在遏制塑膠垃圾。,7.0
-curriculum,n.,課程,The school has added coding to its core curriculum.,這所學校已將程式設計納入核心課程。,6.0
-literacy,n.,識字能力；素養,Digital literacy is now as important as reading and writing.,數位素養如今和讀寫能力一樣重要。,6.5
-compulsory,adj.,義務的；強制的,Education is compulsory for children between six and fifteen.,六到十五歲的兒童必須接受義務教育。,6.0
-tuition,n.,學費；教學,Many students take part-time jobs to cover their tuition fees.,許多學生打工以支付學費。,6.0
-scholarship,n.,獎學金,She won a full scholarship to study abroad.,她獲得全額獎學金出國留學。,5.5
-vocational,adj.,職業的,Vocational training gives students practical skills for specific trades.,職業訓練讓學生習得特定行業的實用技能。,6.5
-undergraduate,n.,大學生,Most undergraduates live on campus during their first year.,大多數大學生第一年住在校園裡。,6.0
-postgraduate,n.,研究生,She is doing postgraduate research in quantum computing.,她正在進行量子計算的研究所研究。,6.5
-plagiarism,n.,抄襲,The university has strict penalties for plagiarism.,這所大學對抄襲有嚴格的處罰。,6.5
-assessment,n.,評量；評估,Continuous assessment replaced the single final exam.,持續性評量取代了單一期末考。,6.0
-syllabus,n.,教學大綱,The syllabus lists all the topics covered this semester.,教學大綱列出本學期涵蓋的所有主題。,6.0
-enrol,v.,註冊；入學,Over a thousand students enrolled in the online course.,超過一千名學生報名了這門線上課程。,6.0
-qualification,n.,資格；學歷,A teaching qualification is required for this position.,這個職位需要教師資格。,6.0
-seminar,n.,研討課；研討會,Students discuss the weekly readings in small seminars.,學生在小型研討課中討論每週的閱讀材料。,6.0
-thesis,n.,論文；論點,He spent a year writing his master's thesis.,他花了一年撰寫碩士論文。,6.5
-faculty,n.,全體教員；學院,The faculty voted to reform the grading system.,全體教員投票決定改革評分制度。,6.5
-extracurricular,adj.,課外的,Extracurricular activities help students develop social skills.,課外活動幫助學生培養社交能力。,6.5
-cognitive,adj.,認知的,Reading to young children boosts their cognitive development.,唸書給幼兒聽能促進他們的認知發展。,7.0
-numeracy,n.,計算能力,Basic numeracy is essential for managing personal finances.,基本計算能力是理財的必備條件。,7.0
-discipline,n.,紀律；學科,Learning a musical instrument requires great discipline.,學習樂器需要極大的自律。,6.0
-tutor,n.,家教；導師,She works as a private tutor on weekends.,她週末擔任私人家教。,5.5
-mentor,n.,導師；指導者,A good mentor can shape a young person's entire career.,好的導師能塑造年輕人的整個職涯。,6.5
-apprenticeship,n.,學徒制；學徒期,He learned carpentry through a four-year apprenticeship.,他透過四年的學徒訓練學會木工。,7.0
-hypothesis,n.,假說；假設,The experiment was designed to test a simple hypothesis.,這項實驗旨在檢驗一個簡單的假說。,6.5
-empirical,adj.,實證的,The theory is supported by decades of empirical evidence.,這個理論有數十年的實證證據支持。,7.5
-methodology,n.,方法論,The paper describes the methodology used to collect the data.,這篇論文說明了收集資料所用的方法。,7.0
-variable,n.,變數,Researchers controlled every variable except temperature.,研究人員控制了除溫度以外的所有變數。,6.5
-phenomenon,n.,現象,Urban heat islands are a well-documented phenomenon.,都市熱島是一種有充分紀錄的現象。,6.5
-criterion,n.,標準；準則,Price should not be the only criterion when choosing a school.,選擇學校時價格不應是唯一標準。,7.0
-correlation,n.,相關性,The study found a strong correlation between sleep and memory.,研究發現睡眠與記憶之間有很強的相關性。,7.0
-plausible,adj.,看似合理的,She offered a plausible explanation for the missing data.,她對遺失的資料提出了一個看似合理的解釋。,7.0
-skeptical,adj.,懷疑的,Many experts remain skeptical about the new treatment.,許多專家仍對這種新療法持懷疑態度。,6.5
-verify,v.,查證；核實,The results must be verified by an independent laboratory.,結果必須由獨立實驗室加以驗證。,6.5
-refute,v.,反駁；駁斥,The new findings refute the earlier theory.,新的發現駁斥了先前的理論。,7.5
-speculate,v.,推測,Scientists can only speculate about what caused the extinction.,科學家只能推測滅絕的原因。,7.0
-deduce,v.,推論；演繹,From the fossils researchers deduced the animal's diet.,研究人員從化石推斷出這種動物的食性。,7.0
-infer,v.,推斷,Readers can infer the author's attitude from her word choice.,讀者能從作者的用字推斷她的態度。,7.0
-quantitative,adj.,量化的,The survey provides quantitative data on commuting habits.,這項調查提供了通勤習慣的量化資料。,7.0
-qualitative,adj.,質性的；質的,Interviews were used to gather qualitative feedback.,研究以訪談收集質性回饋。,7.0
-specimen,n.,樣本；標本,Each blood specimen was labelled and frozen.,每份血液樣本都經過標記並冷凍。,6.5
-simulation,n.,模擬,Pilots train for emergencies in a flight simulation.,飛行員在飛行模擬中訓練應對緊急狀況。,6.5
-innovation,n.,創新,Technological innovation has transformed the way we learn.,科技創新改變了我們學習的方式。,6.0
-breakthrough,n.,重大突破,The discovery was hailed as a medical breakthrough.,這項發現被譽為醫學上的重大突破。,6.5
-synthesis,n.,綜合；合成,Her report is a synthesis of research from three fields.,她的報告綜合了三個領域的研究。,7.5
-theoretical,adj.,理論的,The course balances theoretical knowledge with hands-on practice.,這門課兼顧理論知識與實作練習。,6.5
-academic,adj.,學術的,Academic pressure on teenagers has increased sharply.,青少年的學業壓力急遽增加。,6.0
-intellect,n.,智力,Chess is often seen as a test of pure intellect.,西洋棋常被視為純粹智力的考驗。,7.0
-aptitude,n.,天資；才能,She showed an early aptitude for mathematics.,她很早就展現出數學天分。,7.0
-curiosity,n.,好奇心,Children's natural curiosity should be encouraged rather than suppressed.,孩子天生的好奇心應被鼓勵而非壓抑。,6.0
-memorize,v.,背誦；記住,Students should understand concepts rather than merely memorize facts.,學生應該理解概念而不是死背事實。,6.0
-automation,n.,自動化,Automation has eliminated many routine factory jobs.,自動化淘汰了許多例行性的工廠工作。,6.5
-obsolete,adj.,過時的；淘汰的,Rapid innovation quickly makes older devices obsolete.,快速的創新讓舊裝置很快過時。,7.0
-gadget,n.,小型裝置,The store sells all kinds of kitchen gadgets.,這家店販售各式各樣的廚房小工具。,6.0
-appliance,n.,家電,Energy-efficient appliances can cut household bills significantly.,節能家電能大幅降低家庭開銷。,6.0
-algorithm,n.,演算法,The platform's algorithm decides which videos you see.,平台的演算法決定你看到哪些影片。,7.0
-surveillance,n.,監視；監控,Public surveillance cameras raise concerns about privacy.,公共監視器引發隱私疑慮。,7.0
-virtual,adj.,虛擬的,The museum offers virtual tours of its collection.,這座博物館提供館藏的虛擬導覽。,6.0
-interactive,adj.,互動的,Interactive whiteboards make lessons more engaging.,互動式白板讓課程更吸引人。,6.0
-malfunction,n.,故障,A software malfunction delayed hundreds of flights.,一次軟體故障延誤了數百架航班。,6.5
-compatible,adj.,相容的,The new app is compatible with older phones.,這款新應用程式與舊手機相容。,6.0
-portable,adj.,可攜帶的,Portable chargers have become an everyday necessity.,行動電源已成為日常必需品。,6.0
-encryption,n.,加密,End-to-end encryption protects the content of your messages.,端對端加密保護你的訊息內容。,7.5
-firewall,n.,防火牆,A firewall blocks unauthorized access to the network.,防火牆阻擋對網路的未經授權存取。,7.0
-flaw,n.,缺陷；漏洞,Hackers exploited a flaw in the payment system.,駭客利用了付款系統的一個漏洞。,7.0
-breach,n.,違反；（資料）外洩,The data breach exposed millions of user accounts.,這起資料外洩事件洩露了數百萬個用戶帳號。,7.0
-anonymous,adj.,匿名的,The donation was made by an anonymous benefactor.,這筆捐款來自一位匿名捐贈者。,6.5
-censorship,n.,審查制度,Strict censorship limits what journalists can publish.,嚴格的審查制度限制了記者能發表的內容。,7.0
-propaganda,n.,政治宣傳,The posters were dismissed as government propaganda.,這些海報被斥為政府的政治宣傳。,7.0
-mainstream,adj.,主流的,Electric cars have finally entered the mainstream market.,電動車終於進入主流市場。,6.5
-tabloid,n.,小報,Tabloids often prioritize gossip over serious news.,小報常把八卦擺在正經新聞之前。,7.0
-credibility,n.,可信度,The scandal damaged the newspaper's credibility.,這起醜聞損害了該報的可信度。,7.0
-bias,n.,偏見；偏差,Editors should remove personal bias from news reports.,編輯應去除新聞報導中的個人偏見。,6.5
-sensational,adj.,煽情的；聳動的,Sensational headlines attract clicks but mislead readers.,聳動的標題吸引點擊卻誤導讀者。,7.0
-broadcast,v.,播送；廣播,The interview will be broadcast live tomorrow evening.,這場訪談明晚將現場直播。,6.0
-journalism,n.,新聞業,Investigative journalism plays a vital role in democracy.,調查報導在民主社會扮演重要角色。,6.5
-heritage,n.,（文化）遺產,The old town was declared a world heritage site.,這座古城被列為世界遺產。,6.5
-artifact,n.,文物；手工藝品,The museum displays artifacts from the Bronze Age.,博物館展出青銅器時代的文物。,7.0
-archaeology,n.,考古學,Advances in archaeology have rewritten parts of ancient history.,考古學的進展改寫了部分古代歷史。,7.0
-ritual,n.,儀式,The tea ceremony is a ritual passed down for centuries.,茶道是流傳數百年的儀式。,6.5
-folklore,n.,民間傳說,Local folklore says the lake is home to a dragon.,當地傳說這座湖裡住著一條龍。,7.0
-aesthetic,adj.,美學的；審美的,The bridge was designed for aesthetic appeal as well as function.,這座橋的設計兼顧美感與功能。,7.5
-contemporary,adj.,當代的,The gallery focuses on contemporary Asian art.,這間美術館聚焦於當代亞洲藝術。,6.5
-conventional,adj.,傳統的；慣常的,Her teaching style breaks away from conventional methods.,她的教學風格跳脫傳統方法。,6.5
-archaic,adj.,古老的；過時的,The law contains archaic language that few people understand.,這條法律包含少有人懂的古老措辭。,7.5
-authentic,adj.,真實的；道地的,The restaurant serves authentic Sichuan cuisine.,這家餐廳供應道地的川菜。,6.5
-exhibition,n.,展覽,The photography exhibition runs until the end of the month.,攝影展將持續到月底。,6.0
-masterpiece,n.,傑作,The novel is widely regarded as his masterpiece.,這部小說被公認為他的傑作。,6.5
-manuscript,n.,手稿,The original manuscript was discovered in a private library.,原始手稿是在一間私人圖書館被發現的。,7.0
-dialect,n.,方言,The islanders speak a dialect that outsiders find hard to follow.,島上居民說一種外人很難聽懂的方言。,6.5
-linguistic,adj.,語言的,The country's linguistic diversity is remarkable.,這個國家的語言多樣性十分驚人。,7.0
-bilingual,adj.,雙語的,Bilingual children often switch languages without noticing.,雙語兒童常在不知不覺間切換語言。,6.5
-civilization,n.,文明,The river valley gave birth to one of the earliest civilizations.,這片河谷孕育了最早的文明之一。,6.5
-dynasty,n.,朝代,The vase dates back to the Ming dynasty.,這只花瓶可追溯至明朝。,6.5
-monument,n.,紀念碑；歷史遺跡,A monument was built to honour the fallen soldiers.,人們建立紀念碑以緬懷陣亡將士。,6.0
-restoration,n.,修復,The restoration of the temple took nearly ten years.,這座寺廟的修復工程花了近十年。,6.5
-iconic,adj.,標誌性的,The tower has become an iconic symbol of the city.,這座塔已成為這座城市的標誌性象徵。,6.5
-prestigious,adj.,有聲望的,She was admitted to one of the most prestigious universities.,她獲得一所最富盛名的大學錄取。,6.5
-renowned,adj.,著名的,The region is renowned for its hot springs.,這個地區以溫泉聞名。,6.5
-legacy,n.,遺產；傳承,The Olympics left a lasting legacy of new infrastructure.,奧運留下了新基礎建設的長遠遺產。,7.0
-norm,n.,規範；常態,Remote work has become the norm in many industries.,遠距工作已成為許多產業的常態。,6.5
-epidemic,n.,流行病,The city struggled to contain the flu epidemic.,這座城市竭力控制流感疫情。,6.5
-immune,adj.,免疫的,Regular exercise helps strengthen the immune system.,規律運動有助於增強免疫系統。,6.5
-obesity,n.,肥胖,Childhood obesity has doubled in the past twenty years.,兒童肥胖率在過去二十年翻了一倍。,6.5
-nutrition,n.,營養,Good nutrition in early childhood affects lifelong health.,幼兒期的良好營養影響一生的健康。,6.0
-sedentary,adj.,久坐的,A sedentary lifestyle increases the risk of heart disease.,久坐的生活型態會提高心臟病風險。,7.5
-chronic,adj.,慢性的,Chronic stress can lead to serious health problems.,慢性壓力可能導致嚴重的健康問題。,6.5
-acute,adj.,急性的；劇烈的,He was taken to hospital with acute chest pain.,他因急性胸痛被送往醫院。,7.0
-symptom,n.,症狀,Fatigue is a common symptom of many illnesses.,疲勞是許多疾病的常見症狀。,6.0
-diagnosis,n.,診斷,Early diagnosis greatly improves the chances of recovery.,及早診斷能大幅提高康復機會。,6.5
-therapy,n.,治療；療法,Music therapy is used to reduce anxiety in patients.,音樂治療被用來減輕病患的焦慮。,6.0
-rehabilitation,n.,復健；康復,After the accident he spent six months in rehabilitation.,事故後他花了六個月進行復健。,7.0
-hygiene,n.,衛生,Good hand hygiene prevents the spread of infection.,良好的手部衛生能防止感染擴散。,6.0
-sanitation,n.,公共衛生（設施）,Millions of people still lack access to basic sanitation.,數百萬人仍缺乏基本衛生設施。,7.0
-longevity,n.,長壽,Diet plays a key role in the longevity of the islanders.,飲食是島民長壽的關鍵因素。,7.5
-metabolism,n.,新陳代謝,Your metabolism naturally slows down with age.,新陳代謝會隨年齡自然減慢。,7.0
-fatigue,n.,疲勞,Drivers should stop and rest at the first sign of fatigue.,駕駛人一感到疲勞就應停車休息。,6.5
-insomnia,n.,失眠,Too much screen time before bed can cause insomnia.,睡前使用過多螢幕可能導致失眠。,6.5
-addiction,n.,成癮,Smartphone addiction is increasingly common among teenagers.,手機成癮在青少年間越來越普遍。,6.5
-wellbeing,n.,幸福；身心健康,Employers are paying more attention to staff wellbeing.,雇主越來越重視員工的身心健康。,6.5
-physician,n.,醫師,Consult a physician before starting any new medication.,開始服用任何新藥前請諮詢醫師。,6.5
-prescription,n.,處方,These painkillers are only available on prescription.,這些止痛藥須憑處方購買。,6.0
-remedy,n.,療法；補救辦法,Ginger tea is a traditional remedy for colds.,薑茶是治感冒的傳統偏方。,6.5
-contagious,adj.,傳染性的,The disease is highly contagious in its early stages.,這種疾病在初期具高度傳染性。,6.5
-outbreak,n.,爆發,The outbreak was traced to contaminated food.,這次疫情爆發被追溯到受污染的食物。,6.5
-deficiency,n.,缺乏,Iron deficiency is common among young women.,缺鐵在年輕女性中很常見。,7.0
-intake,n.,攝取量,Doctors recommend reducing your daily sugar intake.,醫師建議減少每日糖分攝取。,6.5
-vaccination,n.,疫苗接種,Vaccination campaigns have nearly eliminated the disease.,疫苗接種運動幾乎消滅了這種疾病。,6.5
-transplant,n.,移植,He is on the waiting list for a heart transplant.,他正在等候心臟移植。,6.5
-clinical,adj.,臨床的,The drug is still in clinical trials.,這種藥物仍在臨床試驗階段。,7.0
-perception,n.,感知；看法,Public perception of nuclear power has shifted over time.,大眾對核能的看法隨時間改變。,7.0
-intuition,n.,直覺,Experienced doctors often rely on intuition as well as tests.,經驗豐富的醫師常同時仰賴直覺與檢驗。,7.0
-empathy,n.,同理心,Nurses need empathy as much as technical skill.,護理師需要同理心，也需要專業技能。,7.0
-altruism,n.,利他主義,Pure altruism expects nothing in return.,純粹的利他不求任何回報。,7.5
-procrastinate,v.,拖延,Students who procrastinate often perform worse under pressure.,愛拖延的學生在壓力下往往表現較差。,7.0
-perseverance,n.,毅力,Learning a language requires patience and perseverance.,學語言需要耐心與毅力。,7.0
-resilience,n.,韌性；恢復力,Sport teaches children resilience in the face of failure.,運動教會孩子面對失敗的韌性。,7.0
-temperament,n.,性情；氣質,The two brothers have completely different temperaments.,這對兄弟的性情截然不同。,7.0
-apathy,n.,冷漠,Voter apathy resulted in a record low turnout.,選民的冷漠導致投票率創新低。,7.5
-gratification,n.,滿足,Social media offers instant gratification but little depth.,社群媒體提供即時滿足卻缺乏深度。,7.5
-impulsive,adj.,衝動的,Impulsive shopping often leads to regret.,衝動購物常常帶來後悔。,6.5
-rational,adj.,理性的,Fear can prevent people from making rational decisions.,恐懼會讓人無法做出理性的決定。,6.5
-subconscious,adj.,潛意識的,Advertising often works on a subconscious level.,廣告常在潛意識層面發揮作用。,7.0
-conform,v.,順從；遵從,Teenagers feel strong pressure to conform to their peers.,青少年感受到強烈的同儕從眾壓力。,7.0
-stereotype,n.,刻板印象,The film challenges common stereotypes about ageing.,這部電影挑戰了對老化的常見刻板印象。,6.5
-prejudice,n.,偏見,Education is the most powerful weapon against prejudice.,教育是對抗偏見最有力的武器。,6.5
-introvert,n.,內向的人,Open-plan offices can be exhausting for introverts.,開放式辦公室對內向者可能很消耗精力。,6.5
-optimistic,adj.,樂觀的,Analysts remain optimistic about the economic recovery.,分析師對經濟復甦仍持樂觀態度。,6.0
-pessimistic,adj.,悲觀的,He takes a pessimistic view of human nature.,他對人性抱持悲觀的看法。,6.0
-self-esteem,n.,自尊,Constant criticism can damage a child's self-esteem.,不斷的批評會傷害孩子的自尊。,6.5
-mindset,n.,心態,A growth mindset helps students see mistakes as opportunities.,成長型心態幫助學生把錯誤視為機會。,6.5
-urbanization,n.,都市化,Rapid urbanization has put huge pressure on housing.,快速都市化對住宅造成巨大壓力。,7.0
-infrastructure,n.,基礎建設,Ageing infrastructure needs billions in repairs.,老化的基礎建設需要數十億元整修。,7.0
-congestion,n.,壅塞,Congestion charges have reduced traffic in the city centre.,壅塞費降低了市中心的車流量。,7.0
-commute,v.,通勤,Thousands of workers commute into the city every morning.,每天早上有數千名勞工通勤進城。,6.0
-pedestrian,n.,行人,The street was closed to cars and reserved for pedestrians.,這條街禁止汽車通行，保留給行人。,6.5
-residential,adj.,住宅的,The factory was built too close to a residential area.,這座工廠蓋得離住宅區太近。,6.0
-municipal,adj.,市政的,Municipal authorities are responsible for waste collection.,市政當局負責垃圾清運。,7.0
-amenity,n.,便利設施,The apartment complex offers amenities such as a gym and a pool.,這個社區提供健身房與泳池等設施。,7.0
-dwelling,n.,住所,The flood destroyed hundreds of dwellings along the river.,洪水摧毀了沿河數百戶住所。,7.5
-migration,n.,遷移；移民,Climate change is expected to drive mass migration.,氣候變遷預計將引發大規模遷徙。,6.5
-demographic,adj.,人口的,Falling birth rates are changing the country's demographic profile.,出生率下降正在改變這個國家的人口結構。,7.0
-census,n.,人口普查,The census is conducted every ten years.,人口普查每十年進行一次。,6.5
-welfare,n.,福利,The welfare system supports the unemployed and the elderly.,福利制度扶助失業者與長者。,6.5
-inequality,n.,不平等,Income inequality has widened over the past decade.,所得不平等在過去十年間擴大。,6.5
-integration,n.,融合；整合,Language classes help the integration of new immigrants.,語言課程有助於新移民融入社會。,7.0
-segregation,n.,隔離,Housing segregation still divides many American cities.,居住隔離仍分裂著許多美國城市。,7.5
-cohesion,n.,凝聚力,Shared traditions strengthen social cohesion.,共同的傳統能強化社會凝聚力。,7.5
-vandalism,n.,破壞公物,The park was closed after repeated acts of vandalism.,公園因屢遭破壞而關閉。,6.5
-delinquency,n.,（青少年）犯罪,After-school programmes help reduce juvenile delinquency.,課後活動有助於減少青少年犯罪。,7.5
-homeless,adj.,無家可歸的,The charity provides meals for homeless people every night.,這個慈善組織每晚為無家者提供餐食。,6.0
-legislation,n.,立法；法規,New legislation will ban single-use plastics.,新法規將禁止一次性塑膠製品。,7.0
-enforce,v.,執行；實施,Police struggle to enforce the speed limit on rural roads.,警方難以在鄉間道路執行速限。,6.5
-prohibit,v.,禁止,Smoking is prohibited in all public buildings.,所有公共建築內禁止吸菸。,6.0
-mandatory,adj.,強制的,Seat belts are mandatory for all passengers.,所有乘客都必須繫安全帶。,6.5
-abolish,v.,廢除,The country abolished the death penalty decades ago.,這個國家數十年前廢除了死刑。,6.5
-amendment,n.,修正案,Parliament passed an amendment to the education act.,國會通過了教育法的修正案。,7.0
-bureaucracy,n.,官僚體系,Endless bureaucracy delayed the construction project.,無止盡的官僚程序拖延了建設計畫。,7.0
-corruption,n.,貪腐,The new leader promised to fight corruption.,新領導人承諾打擊貪腐。,6.5
-transparency,n.,透明度,Citizens are demanding greater transparency in government spending.,公民要求政府支出更加透明。,7.0
-accountability,n.,問責；責任,Public officials must accept accountability for their decisions.,公職人員必須為其決策負責。,7.5
-referendum,n.,公民投票,The issue will be decided by a national referendum.,這個議題將由全國公投決定。,7.0
-sanction,n.,制裁,Economic sanctions were imposed on the regime.,該政權遭到經濟制裁。,7.0
-treaty,n.,條約,The two nations signed a peace treaty last year.,兩國去年簽署了和平條約。,6.5
-diplomatic,adj.,外交的,The crisis was resolved through diplomatic channels.,這場危機透過外交管道解決。,6.5
-jurisdiction,n.,司法管轄權,The case falls outside the court's jurisdiction.,這個案件不在該法院的管轄範圍內。,7.5
-verdict,n.,判決,The jury reached a unanimous verdict of not guilty.,陪審團一致做出無罪判決。,7.0
-penalty,n.,處罰；罰款,The penalty for littering was raised to deter offenders.,亂丟垃圾的罰款被提高以嚇阻違規者。,6.0
-offender,n.,違法者,First-time offenders may receive community service instead of jail.,初犯者可能以社區服務代替監禁。,6.5
-deterrent,n.,嚇阻物；威懾,Harsher fines act as a deterrent to illegal parking.,更重的罰款能嚇阻違規停車。,7.5
-custody,n.,拘留；監護,The suspect was taken into police custody.,嫌犯被警方拘留。,7.0
-prosecution,n.,起訴；檢方,The prosecution presented new evidence in court.,檢方在法庭上提出新證據。,7.0
-legitimate,adj.,合法的；正當的,Citizens have a legitimate right to protest peacefully.,公民有和平抗議的正當權利。,7.0
-petition,n.,請願書,Thousands signed a petition against the new highway.,數千人連署反對新公路的請願。,6.5
-advocate,v.,提倡；主張,The organization advocates equal pay for equal work.,該組織倡導同工同酬。,7.0
-reform,n.,改革,Voters are demanding reform of the tax system.,選民要求稅制改革。,6.5
-initiative,n.,倡議；新措施,The city launched an initiative to plant a million trees.,市府發起種植百萬棵樹的計畫。,7.0
-regime,n.,政權；體制,The old regime collapsed after months of protests.,舊政權在數月抗爭後垮台。,7.0
-constitution,n.,憲法,Freedom of speech is protected by the constitution.,言論自由受憲法保障。,6.5
-consensus,n.,共識,The committee finally reached a consensus on the budget.,委員會終於就預算達成共識。,7.0
-controversy,n.,爭議,The decision sparked controversy across the country.,這項決定在全國引發爭議。,6.5
-recession,n.,經濟衰退,Many small businesses closed during the recession.,許多小型企業在經濟衰退期間倒閉。,6.5
-inflation,n.,通貨膨脹,Rising inflation has eroded the value of savings.,不斷上升的通膨侵蝕了儲蓄的價值。,6.5
-revenue,n.,收入；歲入,Tourism is the island's main source of revenue.,觀光是這座島的主要收入來源。,6.5
-expenditure,n.,支出,Government expenditure on healthcare keeps rising.,政府的醫療支出持續上升。,7.0
-subsidy,n.,補貼,Farmers receive subsidies to keep food prices stable.,農民獲得補貼以穩定糧價。,7.0
-tariff,n.,關稅,Higher tariffs on imports pushed up consumer prices.,提高進口關稅推升了消費者物價。,7.0
-deficit,n.,赤字,The country is running a large trade deficit.,這個國家正面臨龐大的貿易赤字。,7.0
-entrepreneur,n.,創業家,Young entrepreneurs are reshaping the local economy.,年輕創業家正在重塑地方經濟。,6.5
-monopoly,n.,壟斷,The company was fined for abusing its monopoly.,這家公司因濫用壟斷地位而遭罰款。,7.0
-commodity,n.,商品；原物料,Oil remains the world's most traded commodity.,石油仍是全球交易量最大的原物料。,7.0
-consumption,n.,消費；消耗,Household energy consumption peaks in winter.,家庭能源消耗在冬季達到高峰。,6.5
-lucrative,adj.,獲利豐厚的,He gave up a lucrative career in banking to teach.,他放棄銀行業的高薪職涯去教書。,7.5
-bankruptcy,n.,破產,The airline filed for bankruptcy after years of losses.,這家航空公司在多年虧損後聲請破產。,7.0
-recruitment,n.,招募,The company froze recruitment during the downturn.,這家公司在景氣低迷期間凍結招募。,6.5
-layoff,n.,裁員,Mass layoffs followed the factory closure.,工廠關閉後出現大規模裁員。,6.5
-workforce,n.,勞動力,Women now make up nearly half of the workforce.,女性如今佔勞動力近半數。,6.5
-productivity,n.,生產力,Flexible hours have actually improved productivity.,彈性工時實際上提升了生產力。,6.5
-incentive,n.,誘因；獎勵,Tax breaks provide an incentive for green investment.,租稅減免為綠色投資提供誘因。,7.0
-allowance,n.,津貼；零用錢,Employees receive a monthly travel allowance.,員工每月領有交通津貼。,6.0
-pension,n.,退休金,Many worry that their pension will not cover retirement.,許多人擔心退休金不夠養老。,6.5
-freelance,adj.,自由接案的,She left her office job to become a freelance designer.,她辭去辦公室工作成為自由設計師。,6.5
-occupation,n.,職業,Please state your occupation on the form.,請在表格上填寫你的職業。,6.0
-wage,n.,工資,The minimum wage will rise again next year.,最低工資明年將再度調漲。,6.0
-asset,n.,資產,The brand name is the company's most valuable asset.,品牌是這家公司最有價值的資產。,6.5
-liability,n.,負債；責任,The firm's liabilities now exceed its assets.,這家公司的負債如今超過其資產。,7.5
-dividend,n.,股利,Shareholders will receive a higher dividend this year.,股東今年將領到更高的股利。,7.5
-portfolio,n.,投資組合；作品集,A diversified portfolio reduces investment risk.,分散的投資組合能降低投資風險。,7.0
-volatile,adj.,波動劇烈的；不穩定的,Cryptocurrency prices are notoriously volatile.,加密貨幣價格以劇烈波動著稱。,7.5
-transaction,n.,交易,Every transaction is recorded automatically.,每筆交易都會自動記錄。,6.5
-currency,n.,貨幣,The local currency lost half its value in a year.,當地貨幣一年內貶值一半。,6.5
-fluctuate,v.,波動,Exchange rates fluctuate daily according to market demand.,匯率隨市場需求每日波動。,7.0
-plummet,v.,暴跌,Share prices plummeted after the scandal broke.,醜聞爆發後股價暴跌。,7.5
-soar,v.,飆升,Housing costs have soared beyond the reach of young buyers.,房價飆升到年輕買家難以負擔。,7.0
-surge,n.,激增,The festival caused a surge in hotel bookings.,這個節慶使飯店訂房量激增。,7.0
-dwindle,v.,逐漸減少,The town's population has dwindled to a few hundred.,這個小鎮的人口已縮減到只剩數百人。,7.5
-stagnate,v.,停滯,Wages have stagnated while living costs keep climbing.,薪資停滯不前，生活成本卻不斷攀升。,7.5
-thrive,v.,興旺；茁壯,Small cafes thrive in this student neighbourhood.,小咖啡館在這個學生聚集的社區蓬勃發展。,6.5
-flourish,v.,繁榮；興盛,The arts flourished under the new funding scheme.,藝術在新的補助方案下蓬勃發展。,7.0
-prosperity,n.,繁榮,Trade brought decades of prosperity to the port city.,貿易為這座港市帶來數十年的繁榮。,6.5
-austerity,n.,撙節；緊縮,Years of austerity cut deep into public services.,多年的撙節嚴重削減了公共服務。,7.5
-outsource,v.,外包,Many firms outsource customer service to cut costs.,許多公司將客服外包以降低成本。,7.0
-acquisition,n.,收購；習得,The acquisition of the startup cost two billion dollars.,收購這家新創公司花了二十億美元。,7.5
-retail,n.,零售,Online shopping has transformed the retail industry.,網路購物徹底改變了零售業。,6.0
-wholesale,adj.,批發的,They buy goods at wholesale prices and sell them online.,他們以批發價進貨後在網路上販售。,6.5
-logistics,n.,物流,Efficient logistics keep delivery costs low.,高效的物流使運送成本維持低廉。,7.0
-quota,n.,配額,The government set a strict quota on fishing.,政府對漁獲量設定了嚴格配額。,7.0
-audit,n.,審計；查帳,An independent audit revealed serious accounting errors.,獨立審計揭露了嚴重的會計錯誤。,7.5
-overhead,n.,經常性開支,Working from home cuts office overheads dramatically.,居家工作大幅降低辦公室的經常性開支。,7.5
-turnover,n.,營業額；人員流動率,High staff turnover is a sign of poor management.,高離職率是管理不善的徵兆。,7.0
-downturn,n.,（經濟）低迷,The tourism industry suffered badly in the downturn.,觀光業在景氣低迷中受創嚴重。,7.0
-enhance,v.,提升；增強,Regular reading enhances vocabulary and comprehension.,規律閱讀能提升字彙量與理解力。,6.5
-diminish,v.,減少；降低,The drug's effect diminishes over time.,這種藥的效果會隨時間減弱。,7.0
-accelerate,v.,加速,Global warming is accelerating faster than predicted.,全球暖化的速度比預測的更快。,6.5
-hinder,v.,阻礙,Poor infrastructure hinders economic growth in the region.,落後的基礎建設阻礙了該地區的經濟成長。,7.0
-impede,v.,妨礙,Heavy snow impeded the rescue operation.,大雪妨礙了救援行動。,7.5
-foster,v.,培養；促進,Group projects foster cooperation among students.,小組專題能培養學生之間的合作。,7.0
-cultivate,v.,培養；耕作,Travel helps cultivate an open mind.,旅行有助於培養開放的心態。,7.0
-undermine,v.,削弱；暗中破壞,Constant rumours undermined public trust in the media.,不斷的謠言削弱了大眾對媒體的信任。,7.5
-exacerbate,v.,使惡化,Cutting the budget would only exacerbate the problem.,削減預算只會使問題惡化。,7.5
-alleviate,v.,緩解；減輕,The new bridge should alleviate traffic congestion.,新橋應能緩解交通壅塞。,7.0
-eradicate,v.,根除,The campaign aims to eradicate polio worldwide.,這項運動旨在於全球根除小兒麻痺。,7.5
-trigger,v.,引發,The announcement triggered panic buying in supermarkets.,這項公告引發了超市的恐慌性搶購。,6.5
-provoke,v.,激起；挑釁,The documentary provoked a heated national debate.,這部紀錄片激起了全國性的激烈辯論。,7.0
-constitute,v.,構成,Women constitute the majority of part-time workers.,女性佔兼職勞工的多數。,7.0
-comprise,v.,包含；由…組成,The committee comprises experts from five countries.,委員會由來自五個國家的專家組成。,7.0
-encompass,v.,涵蓋,The course encompasses both theory and practice.,這門課涵蓋理論與實務。,7.5
-entail,v.,必然涉及；需要,Studying abroad entails considerable financial planning.,出國留學需要相當程度的財務規劃。,7.5
-derive,v.,源自；獲得,Many English words derive from Latin.,許多英文單字源自拉丁文。,7.0
-attribute,v.,歸因於,Experts attribute the decline in crime to better education.,專家將犯罪率下降歸因於教育改善。,7.0
-allocate,v.,分配,More funds should be allocated to rural schools.,應分配更多經費給偏鄉學校。,7.0
-condemn,v.,譴責,World leaders condemned the attack on civilians.,各國領袖譴責針對平民的攻擊。,7.0
-endorse,v.,支持；背書,Several celebrities endorsed the charity campaign.,多位名人為這項慈善活動背書。,7.0
-interpret,v.,詮釋；解讀,The results can be interpreted in several ways.,這些結果可以有多種解讀。,7.0
-acknowledge,v.,承認；感謝,The author acknowledged the limitations of her study.,作者承認了她研究的局限。,6.5
-emphasize,v.,強調,The report emphasizes the need for early intervention.,這份報告強調及早介入的必要性。,6.0
-illustrate,v.,說明；圖解,The graph illustrates the rise in global temperatures.,這張圖表說明了全球氣溫的上升。,6.5
-demonstrate,v.,證明；示範,The study demonstrates a clear link between diet and mood.,這項研究證明了飲食與情緒之間的明確關聯。,6.5
-imply,v.,暗示,Her silence seemed to imply agreement.,她的沉默似乎暗示著同意。,6.5
-distort,v.,扭曲,Selective statistics can distort the truth.,片面的統計數據可能扭曲事實。,7.5
-exaggerate,v.,誇大,The media tends to exaggerate the dangers of flying.,媒體往往誇大飛行的危險。,6.5
-underestimate,v.,低估,Never underestimate the influence of early habits.,絕不要低估早期習慣的影響力。,6.5
-modify,v.,修改；調整,The design was modified after safety tests.,設計在安全測試後經過修改。,6.5
-transform,v.,徹底改變,The high-speed railway transformed the regional economy.,高鐵徹底改變了區域經濟。,6.5
-evolve,v.,演變；進化,Language constantly evolves to reflect new realities.,語言不斷演變以反映新的現實。,6.5
-emerge,v.,出現；浮現,New evidence emerged during the investigation.,調查期間出現了新的證據。,6.5
-accumulate,v.,累積,Small savings accumulate into large sums over decades.,小額儲蓄經過數十年會累積成大筆金額。,7.0
-assemble,v.,組裝；集合,The furniture is easy to assemble at home.,這款家具在家就能輕鬆組裝。,6.5
-dominate,v.,主導；支配,A few large firms dominate the smartphone market.,少數幾家大公司主導著智慧型手機市場。,6.5
-accommodate,v.,容納；配合,The new stadium can accommodate eighty thousand spectators.,新體育場可容納八萬名觀眾。,7.0
-compile,v.,彙編；編纂,Researchers compiled data from over fifty countries.,研究人員彙整了五十多個國家的資料。,7.0
-classify,v.,分類,The library classifies books by subject.,圖書館依主題將書籍分類。,6.5
-eliminate,v.,消除；淘汰,The vaccine has eliminated the disease in most regions.,疫苗已在多數地區消滅這種疾病。,6.5
-restrict,v.,限制,The city restricts car use in the historic centre.,這座城市限制汽車進入歷史城區。,6.5
-suppress,v.,壓制；抑制,The government tried to suppress the report's findings.,政府試圖壓下這份報告的調查結果。,7.5
-uphold,v.,維護；支持,Courts exist to uphold the rule of law.,法院的存在是為了維護法治。,7.5
-withstand,v.,承受；抵擋,The building is designed to withstand strong earthquakes.,這棟建築的設計能承受強烈地震。,7.0
-undergo,v.,經歷；接受,The airport is undergoing major renovation.,機場正在進行大規模整修。,7.0
-undertake,v.,承擔；著手進行,The institute undertook a five-year study of urban noise.,該研究所著手進行為期五年的都市噪音研究。,7.5
-overlook,v.,忽略；俯瞰,Planners often overlook the needs of elderly residents.,規劃者常忽略年長居民的需求。,6.5
-anticipate,v.,預期,Organizers anticipate record attendance this year.,主辦單位預期今年參加人數將創新高。,7.0
-crucial,adj.,關鍵的,Sleep plays a crucial role in memory formation.,睡眠在記憶形成中扮演關鍵角色。,6.5
-indispensable,adj.,不可或缺的,Smartphones have become indispensable in modern life.,智慧型手機已成為現代生活不可或缺的一部分。,7.5
-prevalent,adj.,普遍的,Remote learning became prevalent during the pandemic.,遠距學習在疫情期間變得普遍。,7.5
-ubiquitous,adj.,無所不在的,Advertising is now ubiquitous in public spaces.,廣告如今在公共空間無所不在。,7.5
-inevitable,adj.,不可避免的,Some job losses are inevitable when industries change.,產業轉型時部分工作的流失在所難免。,6.5
-imminent,adj.,迫在眉睫的,Residents were warned of an imminent typhoon.,居民收到颱風即將來襲的警告。,7.5
-unprecedented,adj.,史無前例的,The city experienced unprecedented rainfall last month.,這座城市上個月經歷了史無前例的降雨。,7.5
-ambiguous,adj.,模稜兩可的,The contract contains several ambiguous clauses.,這份合約包含多處模糊不清的條款。,7.0
-explicit,adj.,明確的,The rules are explicit about what counts as cheating.,規則明確指出什麼行為算作弊。,7.0
-implicit,adj.,含蓄的；隱含的,There was an implicit criticism in her polite reply.,她禮貌的回覆中帶著隱含的批評。,7.5
-coherent,adj.,連貫的,A good essay presents a coherent argument.,好的文章會提出連貫的論證。,7.0
-concise,adj.,簡潔的,Keep your summary concise and to the point.,你的摘要要簡潔扼要。,6.5
-redundant,adj.,多餘的,Cut any redundant words from your writing.,刪去文章中所有多餘的字。,7.0
-arbitrary,adj.,武斷的；任意的,The rule seems arbitrary and unfair to students.,這條規定對學生而言顯得武斷又不公平。,7.5
-viable,adj.,可行的,Solar energy is now a viable alternative to coal.,太陽能如今已是煤炭的可行替代方案。,7.0
-versatile,adj.,多才多藝的；用途廣的,Bamboo is a versatile material used in construction and cooking.,竹子用途廣泛，可用於建築與烹飪。,7.0
-vulnerable,adj.,脆弱的；易受害的,Elderly people are especially vulnerable to extreme heat.,年長者特別容易受到極端高溫的傷害。,7.0
-susceptible,adj.,易受影響的,Children are more susceptible to advertising than adults.,兒童比成人更容易受廣告影響。,7.5
-adverse,adj.,不利的,The drug has no known adverse effects.,這種藥物沒有已知的不良反應。,7.0
-detrimental,adj.,有害的,Excessive screen time is detrimental to children's eyesight.,過長的螢幕時間有害兒童視力。,7.5
-profound,adj.,深遠的；深刻的,The internet has had a profound impact on education.,網路對教育產生了深遠的影響。,7.0
-subtle,adj.,細微的；微妙的,There is a subtle difference between the two phrases.,這兩個片語之間有細微的差別。,7.0
-drastic,adj.,激烈的；極端的,Drastic measures were taken to stop the outbreak.,當局採取了激烈手段以遏止疫情。,7.0
-radical,adj.,激進的；根本的,The school introduced radical changes to its timetable.,這所學校對課表做了徹底的改革。,7.0
-negligible,adj.,可忽略的,The side effects of the vaccine are negligible.,這種疫苗的副作用微乎其微。,7.5
-marginal,adj.,邊緣的；微小的,The new policy brought only marginal improvements.,新政策只帶來微小的改善。,7.5
-considerable,adj.,相當大的,The project requires a considerable amount of funding.,這項計畫需要相當多的資金。,6.5
-immense,adj.,巨大的,Volunteers made an immense contribution to the relief effort.,志工對救災工作做出了巨大貢獻。,6.5
-abundant,adj.,豐富的,The region has abundant supplies of fresh water.,這個地區有豐沛的淡水資源。,6.5
-adequate,adj.,足夠的,Few schools have adequate funding for the arts.,很少學校有足夠的藝術經費。,6.5
-optimal,adj.,最佳的,Twenty degrees is the optimal temperature for studying.,二十度是最適合讀書的溫度。,7.0
-pragmatic,adj.,務實的,We need a pragmatic approach rather than empty slogans.,我們需要務實的做法，而非空洞的口號。,7.5
-sophisticated,adj.,精密的；世故的,Modern weather models are highly sophisticated.,現代氣象模型非常精密。,7.0
-intricate,adj.,錯綜複雜的,The watch contains hundreds of intricate parts.,這只錶包含數百個精細的零件。,7.5
-thorough,adj.,徹底的,The inspector carried out a thorough examination of the site.,檢查員對現場進行了徹底的檢查。,6.5
-meticulous,adj.,一絲不苟的,She keeps meticulous records of every experiment.,她對每次實驗都做極為細心的紀錄。,7.5
-rigorous,adj.,嚴謹的,All drugs must pass rigorous safety testing.,所有藥物都必須通過嚴格的安全測試。,7.5
-robust,adj.,強健的；穩固的,The economy remains robust despite global uncertainty.,儘管全球局勢不明，經濟依然強健。,7.5
-transient,adj.,短暫的,Fame on social media is often transient.,社群媒體上的名氣往往轉瞬即逝。,7.5
-tremendous,adj.,巨大的,The team made tremendous progress in just one year.,這個團隊僅一年就取得巨大進展。,6.5
-diverse,adj.,多樣的,The university attracts students from diverse backgrounds.,這所大學吸引了背景多元的學生。,6.5
-consequently,adv.,因此,He missed the train and consequently arrived late.,他錯過了火車，因此遲到了。,6.5
-subsequently,adv.,隨後,The theory was subsequently confirmed by experiments.,這個理論隨後被實驗證實。,7.0
-presumably,adv.,大概；想必,Presumably the meeting has been cancelled.,想必會議已經取消了。,7.0
-allegedly,adv.,據稱,The funds were allegedly transferred to offshore accounts.,這筆資金據稱被轉往海外帳戶。,7.5
-deliberately,adv.,故意地,The fire was started deliberately.,這場火是有人蓄意縱火。,6.5
-inadvertently,adv.,無意間,She inadvertently deleted the entire folder.,她不小心刪除了整個資料夾。,7.5
-invariably,adv.,總是；不變地,Cheap products invariably cost more in the long run.,便宜的產品長期來看總是花費更多。,7.5
-predominantly,adv.,主要地,The audience was predominantly young and female.,觀眾以年輕女性為主。,7.5
-ultimately,adv.,最終,Ultimately the decision rests with the voters.,最終決定權在選民手中。,6.5
+ambitious,adj.,有雄心的,She is ambitious and hopes to run her own company one day.,她野心勃勃，希望有朝一日能經營自己的公司。,6.0
+anxious,adj.,焦慮的；渴望的,He felt anxious before the interview.,面試前他感到焦慮。,6.0
+candid,adj.,坦率的,I appreciate your candid opinion on my work.,我很感激你對我作品的坦率意見。,7.0
+cynical,adj.,憤世嫉俗的,Years of disappointment made him cynical about politics.,多年的失望讓他對政治憤世嫉俗。,7.0
+courageous,adj.,勇敢的,It was courageous of her to admit the mistake in public.,她能公開承認錯誤十分勇敢。,6.5
+daring,adj.,大膽的,The daring plan surprised everyone on the team.,這個大膽的計畫讓團隊所有人都吃驚。,6.5
+desperate,adj.,絕望的；不顧一切的,Desperate for money he took two extra jobs.,他急需用錢，多兼了兩份工作。,6.5
+devout,adj.,虔誠的,Her devout grandmother prays every morning.,她虔誠的祖母每天早上禱告。,7.0
+earnest,adj.,認真誠懇的,He made an earnest effort to improve his grades.,他認真地努力提升成績。,7.0
+eccentric,adj.,古怪的,The eccentric professor wears odd socks on purpose.,這位古怪的教授故意穿不成對的襪子。,7.0
+energetic,adj.,精力充沛的,The energetic puppy never seems to tire.,這隻精力旺盛的小狗似乎永遠不累。,6.0
+hesitant,adj.,猶豫的,She was hesitant to share her true feelings.,她猶豫著不願透露真實感受。,6.5
+humane,adj.,人道的,The shelter is known for its humane treatment of animals.,這家收容所以人道對待動物聞名。,6.5
+benevolent,adj.,仁慈的,A benevolent stranger paid for the child's meal.,一位仁慈的陌生人為孩子付了餐費。,7.5
+reckless,adj.,魯莽的,Reckless driving is the leading cause of accidents here.,魯莽駕駛是這裡事故的主因。,6.5
+resilient,adj.,有韌性的,Children are often more resilient than adults expect.,孩子往往比大人想像的更有韌性。,7.0
+sinister,adj.,邪惡的；不祥的,There was something sinister about the empty house.,那棟空屋透著一股不祥的氣息。,7.0
+spontaneous,adj.,自發的；即興的,They made a spontaneous decision to drive to the coast.,他們臨時起意開車去海邊。,7.0
+sympathetic,adj.,同情的,The nurse gave him a sympathetic smile.,護理師給了他一個同情的微笑。,6.5
+tolerant,adj.,寬容的,A good teacher is tolerant of different opinions.,好老師能包容不同的意見。,6.5
+treacherous,adj.,奸詐的；危險的,The treacherous path claimed several climbers.,這條危險的山徑奪走了數名登山者的性命。,7.5
+truthful,adj.,誠實的,Please give me a truthful answer.,請給我一個誠實的答案。,6.0
+playful,adj.,愛玩的；開玩笑的,Her playful remark lightened the mood.,她開玩笑的話緩和了氣氛。,6.5
+pious,adj.,虔誠的,The pious monks rise before dawn.,虔誠的僧侶在黎明前起身。,7.5
+savage,adj.,凶猛的；野蠻的,The critics were savage in their reviews.,評論家的評論十分尖刻。,7.0
+clumsy,adj.,笨拙的,He is too clumsy to work with delicate tools.,他太笨拙，無法操作精細的工具。,6.5
+insecure,adj.,沒有安全感的,She felt insecure about speaking a new language.,說一門新語言讓她缺乏安全感。,6.5
+confident,adj.,有自信的,He walked onto the stage looking confident.,他神情自信地走上舞台。,6.0
+agile,adj.,敏捷的,The agile cat slipped through the narrow gap.,敏捷的貓從窄縫中溜了過去。,7.0
+ingenious,adj.,巧妙的,She found an ingenious way to save water.,她想出一個巧妙的省水方法。,7.0
+earnestness,n.,認真；誠懇,He argued his case with great earnestness.,他極為誠懇地陳述自己的立場。,7.5
+despair,n.,絕望,A wave of despair swept over her.,一陣絕望向她襲來。,6.5
+grief,n.,悲傷,It took him years to recover from his grief.,他花了好幾年才走出悲傷。,6.5
+ecstasy,n.,狂喜,The fans screamed in ecstasy when the band appeared.,樂團出場時歌迷欣喜若狂地尖叫。,7.5
+ecstatic,adj.,欣喜若狂的,She was ecstatic about the exam results.,她對考試成績欣喜若狂。,7.0
+morale,n.,士氣,The victory boosted the whole team's morale.,這場勝利提振了全隊的士氣。,7.0
+loneliness,n.,孤獨,Moving abroad brought unexpected loneliness.,搬到國外帶來意想不到的孤獨感。,6.0
+outrage,n.,義憤,The decision sparked public outrage.,這項決定引發了公憤。,7.0
+resent,v.,憎恨；忿恨,She resented being treated like a child.,她討厭被當成小孩對待。,7.0
+relish,v.,享受；喜愛,He relishes a good challenge.,他樂於接受艱難的挑戰。,7.0
+reassure,v.,使安心,The doctor reassured the worried parents.,醫師安撫了焦慮的父母。,6.5
+intimidate,v.,恐嚇；使膽怯,Big crowds no longer intimidate the young singer.,大批人群已不再令這位年輕歌手怯場。,7.0
+ridicule,v.,嘲笑,It is unkind to ridicule a beginner.,嘲笑新手很不厚道。,7.0
+courtesy,n.,禮貌,He held the door open as a courtesy.,他出於禮貌把門扶著。,6.5
+decency,n.,得體；正派,She had the decency to apologize.,她還算有分寸，出面道了歉。,7.0
+dedication,n.,奉獻；專注,Her dedication to the project impressed everyone.,她對這個專案的投入令所有人印象深刻。,6.5
+determination,n.,決心,His determination carried him through the hardest days.,他的決心支撐他熬過最艱難的日子。,6.5
+diligence,n.,勤勉,Diligence often matters more than raw talent.,勤奮往往比天賦更重要。,7.0
+generosity,n.,慷慨,We were touched by their generosity.,他們的慷慨令我們感動。,6.5
+hospitality,n.,好客；款待,We will never forget their warm hospitality.,我們永遠不會忘記他們熱情的款待。,6.5
+hesitation,n.,猶豫,She agreed without hesitation.,她毫不猶豫地答應了。,6.5
+reluctance,n.,不情願,He agreed to help but with obvious reluctance.,他答應幫忙，卻明顯不情願。,7.0
+aspiration,n.,抱負,Her aspiration is to become a diplomat.,她的抱負是成為外交官。,7.0
+menace,n.,威脅；討厭的人,Speeding drivers are a menace to pedestrians.,超速的駕駛人對行人是一大威脅。,7.0
+nuisance,n.,討厭的事物,The barking dog next door is a real nuisance.,隔壁狂吠的狗真是個麻煩。,6.5
+ordeal,n.,煎熬,The long trial was an ordeal for the family.,漫長的審判對這家人是一場煎熬。,7.0
+sensation,n.,感覺；轟動,A tingling sensation spread through her hand.,一陣刺麻的感覺傳遍她的手。,6.5
+suspense,n.,懸疑；緊張,The film keeps the audience in suspense until the end.,這部電影讓觀眾懸著心直到最後。,6.5
+vitality,n.,活力,The festival brought new vitality to the old town.,這場慶典為古鎮注入新活力。,7.0
+mentality,n.,心態,A winning mentality separates champions from the rest.,致勝的心態使冠軍與眾不同。,7.0
+optimism,n.,樂觀,Despite the losses she kept her optimism.,儘管接連受挫，她仍保持樂觀。,6.5
+conscience,n.,良心,His guilty conscience kept him awake.,愧疚的良心讓他徹夜難眠。,7.0
+integrity,n.,正直,The judge was admired for her integrity.,這位法官因正直而受人敬重。,7.0
+intimacy,n.,親密,True intimacy takes years to build.,真正的親密需要多年培養。,7.5
+humility,n.,謙遜,He accepted the award with humility.,他謙遜地接受了這個獎項。,7.0
+arrogance,n.,傲慢,His arrogance cost him many friends.,他的傲慢讓他失去許多朋友。,7.0
+compassion,n.,同情心,She treats every patient with compassion.,她以慈悲之心對待每位病患。,6.5
+dread,n.,恐懼,He felt a growing dread as the date approached.,日子逼近，他心中的恐懼與日俱增。,7.0
+anguish,n.,痛苦,Her face was full of anguish.,她滿臉痛苦。,7.5
+serenity,n.,寧靜,The garden offers a rare sense of serenity.,這座花園給人難得的寧靜感。,7.5
+temperamental,adj.,喜怒無常的,The temperamental artist is hard to work with.,這位喜怒無常的藝術家很難合作。,7.5
+apprehensive,adj.,憂慮的,She was apprehensive about the surgery.,她對這場手術感到憂慮。,7.0
+indifferent,adj.,漠不關心的,He seemed indifferent to their criticism.,他對他們的批評似乎毫不在意。,7.0
+compassionate,adj.,富同情心的,A compassionate response can change everything.,富同情心的回應能改變一切。,6.5
+vigorous,adj.,強而有力的,The proposal met vigorous opposition.,這項提案遭到強烈反對。,7.0
+restless,adj.,焦躁不安的,The restless crowd began to shout.,焦躁的群眾開始叫喊。,6.5
+gracious,adj.,親切有禮的,She was gracious even to her critics.,即使對批評者她也親切有禮。,7.0
+abrupt,adj.,突然的；唐突的,The meeting came to an abrupt end.,會議突然結束了。,6.5
+absurd,adj.,荒謬的,It is absurd to blame the weather for your mistake.,把你的錯怪到天氣頭上很荒謬。,6.5
+adjacent,adj.,相鄰的,Our office is adjacent to the library.,我們的辦公室緊鄰圖書館。,7.0
+akin,adj.,類似的,Her style is akin to that of early jazz singers.,她的風格近似早期的爵士歌手。,7.5
+apparent,adj.,明顯的；表面的,It soon became apparent that no one was coming.,很快就明顯看出沒有人會來。,6.5
+arid,adj.,乾旱的,Little grows in the arid interior of the country.,這個國家乾旱的內陸幾乎寸草不生。,7.0
+audible,adj.,聽得見的,Her voice was barely audible over the noise.,在噪音中幾乎聽不見她的聲音。,7.0
+bleak,adj.,荒涼的；黯淡的,The report paints a bleak picture of the economy.,這份報告描繪出黯淡的經濟前景。,7.0
+comparable,adj.,可比較的,The two cities are comparable in size.,這兩座城市規模相近。,6.5
+conclusive,adj.,決定性的,There is no conclusive evidence yet.,目前尚無決定性的證據。,7.0
+conspicuous,adj.,顯眼的,Her bright coat made her conspicuous in the crowd.,鮮豔的外套讓她在人群中格外顯眼。,7.5
+credible,adj.,可信的,The witness gave a credible account of events.,證人對事件的陳述可信。,7.0
+definite,adj.,明確的,We need a definite answer by Friday.,我們週五前需要明確的答覆。,6.0
+dubious,adj.,可疑的；半信半疑的,The deal sounds dubious to me.,這筆交易在我聽來很可疑。,7.0
+eminent,adj.,傑出的,She is an eminent scholar in her field.,她是該領域傑出的學者。,7.0
+exotic,adj.,異國情調的,The market sells exotic fruits from the tropics.,這個市場販售來自熱帶的奇異水果。,6.5
+extensive,adj.,廣泛的,The book required extensive research.,這本書需要大量的研究。,6.5
+external,adj.,外部的,External factors also affect the result.,外部因素也會影響結果。,6.0
+feasible,adj.,可行的,The plan is ambitious but feasible.,這個計畫雖有野心卻可行。,7.0
+finite,adj.,有限的,We must live within the planet's finite resources.,我們必須在地球有限的資源內生活。,7.0
+flexible,adj.,靈活的,The course offers a flexible schedule.,這門課提供彈性的時間安排。,6.0
+formidable,adj.,令人生畏的,They face a formidable opponent tonight.,他們今晚面對一個強勁的對手。,7.5
+futile,adj.,徒勞的,All attempts to restart the engine were futile.,重新發動引擎的一切努力都徒勞無功。,7.5
+gigantic,adj.,巨大的,A gigantic wave crashed onto the shore.,一道巨浪撞上岸邊。,6.0
+hideous,adj.,醜陋的；可怕的,The wallpaper was a hideous shade of green.,那壁紙是難看的綠色。,7.0
+hilarious,adj.,極好笑的,His impression of the teacher was hilarious.,他模仿老師的樣子笑翻全場。,6.5
+imaginary,adj.,想像的,The child has an imaginary friend.,這孩子有個想像中的朋友。,6.0
+immaculate,adj.,一塵不染的,Her kitchen is always immaculate.,她的廚房總是一塵不染。,7.5
+immature,adj.,不成熟的,His immature behaviour annoyed his colleagues.,他不成熟的行為惹惱了同事。,6.5
+inherent,adj.,固有的,There are risks inherent in any investment.,任何投資都有其固有的風險。,7.5
+intrinsic,adj.,內在的,The painting has intrinsic value beyond its price.,這幅畫的價值超越它的價格。,7.5
+invaluable,adj.,無價的；極寶貴的,Her advice was invaluable to me.,她的建議對我極為寶貴。,7.0
+linear,adj.,線性的,Progress is rarely linear.,進步很少是直線前進的。,7.0
+ludicrous,adj.,可笑的；荒唐的,The idea seemed ludicrous at first.,這個想法起初看來荒唐。,7.5
+magnificent,adj.,壯麗的,We admired the magnificent mountain view.,我們讚嘆這壯麗的山景。,6.5
+mediocre,adj.,平庸的,The meal was expensive but mediocre.,這頓飯昂貴卻平庸。,7.0
+memorable,adj.,難忘的,It was a memorable evening for us all.,那是我們所有人難忘的一晚。,6.0
+miniature,adj.,微型的,She collects miniature furniture.,她收集微型家具。,6.5
+mundane,adj.,平凡的；乏味的,He longed to escape his mundane routine.,他渴望逃離乏味的日常。,7.5
+noticeable,adj.,顯而易見的,There was a noticeable change in his mood.,他的情緒有明顯的變化。,6.5
+ominous,adj.,不祥的,Ominous clouds gathered over the valley.,不祥的烏雲聚集在山谷上空。,7.5
+paramount,adj.,至高無上的,Safety is of paramount importance here.,安全在這裡是首要之務。,7.5
+pervasive,adj.,無所不在的,The smell of smoke was pervasive.,煙味瀰漫各處。,7.5
+potent,adj.,強效的,The medicine is potent and should be used sparingly.,這種藥效力強，應少量使用。,7.0
+precise,adj.,精確的,Give me the precise measurements.,給我精確的尺寸。,6.5
+pristine,adj.,原始純淨的,The beach remains in pristine condition.,這片海灘依然保持原始純淨。,7.5
+prominent,adj.,突出的；著名的,She played a prominent role in the campaign.,她在這場運動中扮演重要角色。,7.0
+prolific,adj.,多產的,The prolific writer publishes two books a year.,這位多產作家一年出版兩本書。,7.5
+rampant,adj.,猖獗的,Corruption was rampant under the old regime.,舊政權下貪腐橫行。,7.5
+sheer,adj.,純粹的；陡峭的,It was sheer luck that we met.,我們相遇純屬運氣。,7.0
+slight,adj.,輕微的,There was a slight delay in the schedule.,行程有輕微的延誤。,6.0
+sparse,adj.,稀疏的,Vegetation is sparse in the desert.,沙漠中植被稀疏。,7.0
+stagnant,adj.,停滯的,Mosquitoes breed in stagnant water.,蚊子在死水中繁殖。,7.0
+static,adj.,靜止的,Prices have remained static for months.,物價已數月維持不變。,7.0
+superb,adj.,極好的,The orchestra gave a superb performance.,管弦樂團帶來精彩的演出。,6.5
+superficial,adj.,膚淺的；表面的,His knowledge of the subject is superficial.,他對這門學問的了解很膚淺。,7.0
+tangible,adj.,有形的；實在的,The project brought tangible benefits to the town.,這個專案為小鎮帶來實質的好處。,7.5
+tentative,adj.,試探性的；暫定的,We reached a tentative agreement.,我們達成了暫定的協議。,7.0
+transparent,adj.,透明的；公開的,The company promised a transparent process.,公司承諾一個公開透明的流程。,6.5
+trivial,adj.,瑣碎的,Do not waste time on trivial matters.,別把時間浪費在瑣事上。,6.5
+ultimate,adj.,最終的；極致的,Winning the title was her ultimate goal.,奪冠是她的終極目標。,6.5
+unanimous,adj.,一致同意的,The decision was unanimous.,這項決定獲得一致通過。,7.0
+uncommon,adj.,不常見的,Such honesty is uncommon these days.,這樣的誠實如今並不常見。,6.5
+vertical,adj.,垂直的,The cliff rises in a near vertical wall.,這座峭壁幾乎垂直而立。,6.5
+extraordinary,adj.,非凡的,She showed extraordinary courage.,她展現了非凡的勇氣。,6.5
+extravagant,adj.,奢侈的,They threw an extravagant party.,他們辦了一場奢華的派對。,7.0
+phenomenal,adj.,驚人的,The app achieved phenomenal success.,這款應用程式取得驚人的成功。,7.0
+glorious,adj.,輝煌的；壯麗的,We enjoyed a glorious summer afternoon.,我們享受了一個燦爛的夏日午後。,6.5
+invincible,adj.,無敵的,The team seemed invincible that season.,那個賽季這支球隊似乎所向無敵。,7.5
+irresistible,adj.,難以抗拒的,The smell of fresh bread is irresistible.,新鮮麵包的香味令人難以抗拒。,7.0
+obligatory,adj.,義務的；必須的,Attendance at the ceremony is obligatory.,出席典禮是義務。,7.5
+orthodox,adj.,正統的,She rejected the orthodox view of the disease.,她否定了對這種疾病的正統看法。,7.5
+passive,adj.,被動的,He took a passive role in the discussion.,他在討論中採取被動的角色。,6.5
+selective,adj.,精挑細選的,The college is highly selective.,這所大學錄取十分嚴格。,7.0
+simultaneous,adj.,同時的,The event had simultaneous translation.,這場活動提供同步口譯。,7.0
+consecutive,adj.,連續的,It rained for five consecutive days.,連續下了五天雨。,7.0
+concurrent,adj.,同時發生的,The two projects ran concurrent with each other.,這兩個專案同時進行。,7.5
+intermittent,adj.,間歇的,The forecast warns of intermittent showers.,氣象預報警告會有間歇陣雨。,7.5
+temporary,adj.,暫時的,She found a temporary job over the summer.,她在暑假找了份臨時工作。,6.0
+permanent,adj.,永久的,He is looking for a permanent position.,他正在尋找一份正職。,6.0
+rustic,adj.,鄉村風的,The cabin had a charming rustic feel.,這間小屋有迷人的鄉村風情。,7.0
+lax,adj.,鬆懈的,Security at the site was dangerously lax.,現場的安全防護鬆懈得危險。,7.5
+absorb,v.,吸收,Plants absorb water through their roots.,植物透過根部吸收水分。,6.0
+accomplish,v.,完成；達成,She accomplished the task ahead of schedule.,她提前完成了任務。,6.5
+acquire,v.,獲得；取得,He acquired fluency after living abroad.,住在國外後他變得能流利表達。,6.5
+adhere,v.,黏附；遵守,All members must adhere to the rules.,所有成員都必須遵守規則。,7.0
+alter,v.,改變,We may need to alter our plans.,我們或許需要更改計畫。,6.5
+coincide,v.,同時發生；一致,My holiday coincides with the festival.,我的假期正好碰上這個節慶。,7.0
+collapse,v.,倒塌；崩潰,The old bridge collapsed during the flood.,那座舊橋在洪水中倒塌。,6.5
+commemorate,v.,紀念,A statue was built to commemorate the event.,人們建了雕像來紀念這起事件。,7.0
+compute,v.,計算,The software computes the totals instantly.,這套軟體能即時計算總數。,6.5
+concede,v.,承認；讓步,He finally conceded that he was wrong.,他終於承認自己錯了。,7.0
+conquer,v.,征服;克服,She conquered her fear of public speaking.,她克服了對公開演講的恐懼。,6.5
+consolidate,v.,鞏固；整合,The company consolidated its position in the market.,這家公司鞏固了它的市場地位。,7.5
+deceive,v.,欺騙,He deceived his clients for years.,他欺騙客戶多年。,6.5
+designate,v.,指定,This area is designated for parking.,這塊區域指定為停車用。,7.0
+differentiate,v.,區分,It is hard to differentiate the twins.,很難分辨這對雙胞胎。,7.0
+disrupt,v.,擾亂,The strike disrupted train services.,罷工擾亂了火車運行。,6.5
+divert,v.,轉移；改道,Traffic was diverted around the accident.,車流繞過事故現場改道行駛。,7.0
+donate,v.,捐贈,They donated a large sum to the school.,他們捐了一大筆錢給學校。,6.0
+embark,v.,著手；登船,She embarked on a new career at forty.,她四十歲時展開新的職涯。,7.0
+emulate,v.,效法,Young players try to emulate their heroes.,年輕球員努力效法他們的偶像。,7.5
+enact,v.,制定（法律）,The government enacted a new privacy law.,政府制定了一項新的隱私法。,7.5
+evade,v.,躲避,He evaded the question with a joke.,他用一個玩笑迴避了這個問題。,7.0
+exceed,v.,超過,The cost must not exceed the budget.,費用不得超出預算。,6.5
+exert,v.,施加；運用,The moon exerts a pull on the tides.,月球對潮汐施加引力。,7.5
+expand,v.,擴張,The business plans to expand overseas.,這家企業計畫向海外擴張。,6.0
+facilitate,v.,促進；使便利,The app facilitates communication between teams.,這款應用程式促進團隊間的溝通。,7.0
+generate,v.,產生,Wind turbines generate clean electricity.,風力發電機產生乾淨的電力。,6.5
+illuminate,v.,照亮；闡明,Lanterns illuminated the narrow street.,燈籠照亮了狹窄的街道。,7.0
+inhibit,v.,抑制,Fear can inhibit clear thinking.,恐懼會抑制清晰的思考。,7.5
+initiate,v.,發起；開始,She initiated a programme to help newcomers.,她發起了一項協助新人的計畫。,7.0
+inject,v.,注射；注入,The scheme injected new funds into the project.,這個方案為專案注入了新資金。,6.5
+interact,v.,互動,The two species rarely interact in the wild.,這兩種物種在野外很少互動。,6.5
+intercept,v.,攔截,The goalkeeper intercepted the pass.,守門員攔下了那記傳球。,7.0
+interrupt,v.,打斷,Please do not interrupt while I am speaking.,我說話時請別打斷。,6.0
+intervene,v.,干預,The teacher intervened to stop the argument.,老師出面制止了爭吵。,7.0
+invoke,v.,援引；喚起,She invoked an old law to support her case.,她援引一條舊法律來支持自己的論點。,7.5
+minimize,v.,使減到最少,We took steps to minimize the risk.,我們採取措施把風險降到最低。,6.5
+migrate,v.,遷徙,Many birds migrate south for the winter.,許多鳥類為過冬而南遷。,6.5
+navigate,v.,導航；穿行,It is hard to navigate the old city by car.,開車穿行舊城區並不容易。,6.5
+oversee,v.,監督,A manager oversees the daily operations.,一名經理負責監督日常運作。,7.0
+penetrate,v.,穿透;滲透,Sunlight cannot penetrate the thick canopy.,陽光無法穿透茂密的樹冠。,7.0
+ponder,v.,沉思,She pondered the offer for a week.,她把這個提議思考了一週。,7.0
+possess,v.,擁有,He possesses a rare talent for languages.,他擁有罕見的語言天賦。,6.5
+predict,v.,預測,No one can accurately predict the market.,沒有人能準確預測市場。,6.0
+proceed,v.,繼續進行,We will proceed with the plan as agreed.,我們將按約定繼續執行計畫。,6.5
+qualify,v.,取得資格,She qualified as a nurse last year.,她去年取得護理師資格。,6.0
+reclaim,v.,取回；開墾,The land was reclaimed from the sea.,這片土地是從海中開墾出來的。,7.0
+reconsider,v.,重新考慮,Please reconsider your decision.,請重新考慮你的決定。,6.5
+recruit,v.,招募,The firm is recruiting engineers.,這家公司正在招募工程師。,6.0
+reproduce,v.,繁殖；複製,Some plants reproduce without seeds.,有些植物不靠種子繁殖。,6.5
+retrieve,v.,取回；檢索,The dog retrieved the ball from the pond.,狗把球從池塘裡叼了回來。,6.5
+revise,v.,修訂;複習,We revised the report after the meeting.,會議後我們修訂了報告。,6.5
+rotate,v.,旋轉；輪替,The staff rotate between shifts.,員工輪班工作。,6.5
+sacrifice,v.,犧牲,She sacrificed her weekend to finish the work.,她犧牲週末把工作做完。,6.5
+safeguard,v.,保護,New rules safeguard workers' rights.,新規定保障勞工的權益。,7.0
+salvage,v.,搶救,Divers salvaged goods from the wreck.,潛水員從沉船中打撈出貨物。,7.0
+seize,v.,抓住;奪取,Police seized a large quantity of drugs.,警方查獲大量毒品。,7.0
+simplify,v.,簡化,The new form simplifies the process.,新表格簡化了流程。,6.5
+simulate,v.,模擬,The program simulates real driving conditions.,這套程式模擬真實的駕駛情境。,7.0
+stimulate,v.,刺激;激勵,Lower taxes may stimulate spending.,降稅或許能刺激消費。,7.0
+terminate,v.,終止,The contract was terminated early.,合約提前終止。,7.0
+tolerate,v.,容忍,I will not tolerate rude behaviour.,我無法容忍無禮的行為。,6.5
+transmit,v.,傳送；傳播,The disease is transmitted through water.,這種疾病透過水傳播。,7.0
+nurture,v.,培育,Good teachers nurture curiosity.,好老師培養學生的好奇心。,7.0
+discard,v.,丟棄,Please discard any damaged goods.,請丟棄任何損壞的商品。,6.5
+disregard,v.,忽視,He disregarded the warning signs.,他無視了警告標誌。,7.0
+discredit,v.,使名譽掃地,The rumour was meant to discredit her.,這則謠言意在毀她的名聲。,7.5
+revert,v.,回復,The land will revert to forest in time.,這片土地終將回復為森林。,7.5
+discern,v.,辨識,It was hard to discern his true intentions.,很難看出他真正的意圖。,7.5
+compel,v.,強迫,Illness compelled her to cancel the trip.,病痛迫使她取消行程。,7.0
+dispatch,v.,派遣；發送,The company dispatched the order the same day.,公司當天就把訂單寄出。,7.0
+render,v.,使成為；提供,The injury rendered him unable to walk.,傷勢使他無法行走。,7.5
+allege,v.,指稱,They allege that the company broke the law.,他們指稱這家公司違法。,7.5
+resume,v.,恢復；繼續,Play resumed after the rain stopped.,雨停後比賽繼續進行。,6.5
+suspend,v.,暫停；懸掛,The service was suspended for repairs.,服務因維修而暫停。,6.5
+integrate,v.,整合;融入,The software integrates with existing tools.,這套軟體能與現有工具整合。,6.5
+aggregate,n.,總計；合計,The aggregate of all donations exceeded a million.,所有捐款的總額超過一百萬。,7.5
+brokerage,n.,經紀業務；佣金,She works at a small brokerage in the city.,她在城裡一家小型券商工作。,7.5
+competitor,n.,競爭者,Our main competitor lowered its prices.,我們的主要競爭對手降價了。,6.5
+corporate,adj.,公司的；企業的,The corporate headquarters is in Taipei.,企業總部設在台北。,6.5
+default,n.,違約；預設值,Failure to pay counts as a default.,未能付款即構成違約。,7.0
+depreciation,n.,貶值；折舊,The car loses value through depreciation each year.,這輛車每年因折舊而貶值。,7.5
+embargo,n.,禁運,The trade embargo hurt both economies.,這項貿易禁運傷害了兩國經濟。,7.5
+employee,n.,員工,Every employee received a bonus.,每位員工都領到獎金。,6.0
+employer,n.,雇主,A good employer listens to feedback.,好的雇主會傾聽意見回饋。,6.0
+expense,n.,費用,The company covers travel expenses.,公司負擔差旅費用。,6.0
+fiscal,adj.,財政的,The government announced a new fiscal policy.,政府宣布了新的財政政策。,7.5
+monetary,adj.,貨幣的；金融的,The bank adjusted its monetary policy.,央行調整了貨幣政策。,7.5
+taxation,n.,稅收;課稅,Higher taxation funds public services.,較高的稅收支應公共服務。,7.0
+vendor,n.,攤販；供應商,A street vendor sold roasted chestnuts.,一個街頭小販賣著烤栗子。,6.5
+investor,n.,投資者,Investors welcomed the news.,投資人樂見這則消息。,6.5
+manufacturer,n.,製造商,The manufacturer recalled the faulty batch.,製造商回收了瑕疵批次。,6.5
+personnel,n.,人員；人事,All personnel must wear a badge.,所有人員都必須配戴識別證。,7.0
+prototype,n.,原型,Engineers tested the first prototype.,工程師測試了第一個原型。,7.0
+quarterly,adj.,每季的,The company issues a quarterly report.,公司發布季度報告。,7.0
+syndicate,n.,聯合企業;集團,A syndicate of banks funded the deal.,由多家銀行組成的財團資助了這筆交易。,7.5
+utility,n.,公用事業;效用,Water is an essential utility.,水是不可或缺的公用事業。,7.0
+levy,n.,徵稅,A new levy was placed on imported cars.,進口車被課徵一項新稅。,7.5
+conversion,n.,轉換,The conversion to solar power saved money.,改用太陽能省下了錢。,7.0
+colleague,n.,同事,My colleague helped me finish the report.,同事幫我完成了報告。,6.0
+contender,n.,競爭者;候選人,She is a serious contender for the title.,她是這個頭銜有力的競爭者。,7.0
+dismissal,n.,解僱,He is appealing against his dismissal.,他正就自己被解僱一事提出申訴。,7.0
+promoter,n.,主辦者;推廣者,The concert promoter expected a full house.,演唱會主辦方預期會座無虛席。,7.0
+mandate,n.,授權;命令,The new leader has a clear mandate for change.,新領導人獲得明確的改革授權。,7.5
+premise,n.,前提,The argument rests on a false premise.,這個論點建立在錯誤的前提上。,7.5
+proprietor,n.,業主,The proprietor greeted every regular by name.,老闆能叫出每位常客的名字。,7.5
+subsidiary,n.,子公司,The firm sold its overseas subsidiary.,這家公司賣掉了海外子公司。,7.5
+enterprise,n.,企業;事業心,She runs a successful small enterprise.,她經營一家成功的小型企業。,6.5
+commission,n.,佣金;委員會,Agents earn a commission on each sale.,經紀人每筆銷售可賺取佣金。,6.5
+inventory,n.,庫存,The store took inventory at year end.,這家店在年底盤點庫存。,7.0
+merchant,n.,商人,The merchant traded silk along the coast.,這名商人沿岸買賣絲綢。,6.5
+alliance,n.,聯盟,The two parties formed an alliance.,這兩個政黨結成聯盟。,6.5
+ally,n.,盟友,The country turned to its closest ally for help.,這個國家向最親近的盟友求助。,6.5
+blockade,n.,封鎖,The navy imposed a blockade on the port.,海軍對港口實施封鎖。,7.5
+boycott,n.,抵制,Consumers organized a boycott of the brand.,消費者發起抵制該品牌的行動。,7.0
+cabinet,n.,內閣,The prime minister reshuffled the cabinet.,首相改組了內閣。,6.5
+coalition,n.,聯合政府;聯盟,Three parties formed a coalition government.,三個政黨組成聯合政府。,7.5
+constituency,n.,選區,She represents a rural constituency.,她代表一個鄉村選區。,7.5
+constituent,n.,選民;成分,Members of parliament meet their constituents.,國會議員與選民會面。,7.5
+consulate,n.,領事館,Apply for the visa at the consulate.,到領事館申請簽證。,7.0
+covenant,n.,契約;盟約,The neighbours signed a covenant on shared land.,鄰居們就共有土地簽訂了契約。,7.5
+defendant,n.,被告,The defendant pleaded not guilty.,被告表示不認罪。,7.0
+diplomacy,n.,外交,The crisis was solved through diplomacy.,這場危機透過外交手段解決。,7.0
+diplomat,n.,外交官,The diplomat spoke four languages.,這位外交官會說四種語言。,6.5
+dissent,n.,異議,The ruling was met with strong dissent.,這項裁決引來強烈的異議。,7.5
+judicial,adj.,司法的,The case is under judicial review.,此案正接受司法審查。,7.5
+judiciary,n.,司法機關,An independent judiciary protects citizens.,獨立的司法機關保障公民。,7.5
+legislative,adj.,立法的,The bill passed both legislative chambers.,這項法案通過了兩院的立法程序。,7.5
+legitimacy,n.,正當性;合法性,Voters questioned the legitimacy of the result.,選民質疑這個結果的正當性。,7.5
+manifesto,n.,宣言;政綱,The party published its election manifesto.,該政黨發表了競選政綱。,7.5
+monarchy,n.,君主制,The country is a constitutional monarchy.,這個國家是君主立憲制。,7.0
+nominate,v.,提名,She was nominated for the award.,她獲得該獎項的提名。,6.5
+nominee,n.,被提名人,The nominee accepted the position.,被提名人接受了這個職位。,7.0
+parliament,n.,國會;議會,Parliament will vote on the bill tomorrow.,國會明天將對這項法案表決。,6.5
+partisan,adj.,黨派的;偏袒的,The debate became highly partisan.,這場辯論變得高度黨派化。,7.5
+probation,n.,緩刑;試用期,He was placed on probation for a year.,他被判緩刑一年。,7.0
+prohibition,n.,禁止,There is a prohibition on smoking indoors.,室內禁止吸菸。,7.0
+repeal,v.,廢除,Campaigners want to repeal the old law.,倡議者希望廢除這條舊法律。,7.5
+statute,n.,法規;成文法,The practice is banned by statute.,這種做法為法律所禁止。,7.5
+suffrage,n.,選舉權,Women won the right to suffrage after long struggle.,女性經過長期抗爭才贏得選舉權。,7.5
+tyranny,n.,暴政,The people rose up against tyranny.,人民奮起反抗暴政。,7.5
+veto,n.,否決權,The president used his veto to block the bill.,總統動用否決權擋下法案。,7.5
+unlawful,adj.,違法的,The court ruled the detention unlawful.,法院裁定這項拘留違法。,7.0
+felony,n.,重罪,Armed robbery is a serious felony.,持械搶劫是嚴重的重罪。,7.5
+libel,n.,誹謗（文字）,The newspaper was sued for libel.,這家報社因誹謗被告。,7.5
+defamation,n.,毀謗,She filed a defamation lawsuit.,她提起了毀謗訴訟。,7.5
+perjury,n.,偽證,Lying under oath is perjury.,在宣誓後說謊即構成偽證。,7.5
+plea,n.,請求;抗辯,The judge rejected his plea for mercy.,法官駁回了他求情的請求。,7.5
+punitive,adj.,懲罰性的,The court imposed punitive damages.,法院判處懲罰性賠償。,7.5
+solicitor,n.,事務律師,She consulted a solicitor about the contract.,她就合約諮詢了一位事務律師。,7.5
+partition,n.,分割;隔間,The partition of the land caused disputes.,土地的分割引發了紛爭。,7.5
+regiment,n.,團（軍隊）,The regiment marched at dawn.,這個團在黎明時分行軍。,7.0
+garrison,n.,駐軍,A small garrison defended the fort.,一支小型駐軍守衛著堡壘。,7.5
+militia,n.,民兵,Local militia guarded the village.,當地民兵守衛著村莊。,7.5
+martial,adj.,軍事的;戰爭的,The region was placed under martial law.,該地區實施了戒嚴。,7.5
+ambush,n.,埋伏,The convoy was caught in an ambush.,車隊中了埋伏。,7.0
+siege,n.,圍城;圍攻,The city endured a long siege.,這座城市歷經漫長的圍攻。,7.0
+missile,n.,飛彈,The missile was intercepted in mid air.,飛彈在空中被攔截。,6.5
+convoy,n.,車隊;護航隊,A convoy of trucks carried the supplies.,一支卡車車隊運送補給品。,7.0
+naval,adj.,海軍的,The naval base lies on the south coast.,海軍基地位於南海岸。,7.0
+brigade,n.,旅（軍隊）;隊,The fire brigade arrived within minutes.,消防隊幾分鐘內就趕到了。,7.0
+outlaw,v.,使非法,The country outlawed the sale of ivory.,這個國家立法禁止象牙買賣。,7.0
+sovereignty,n.,主權,The islands are a matter of disputed sovereignty.,這些島嶼涉及主權爭議。,7.5
+delegate,n.,代表,Each delegate cast a single vote.,每位代表投一票。,7.0
+oppression,n.,壓迫,They fought against political oppression.,他們對抗政治壓迫。,7.5
+autonomy,n.,自治;自主,The region was granted greater autonomy.,該地區獲得了更大的自治權。,7.5
+ballot,n.,選票;投票,Voters cast their ballots in secret.,選民以不記名方式投票。,6.5
+analogy,n.,類比,She explained the idea by analogy with a river.,她用河流作類比來解釋這個概念。,7.5
+analogous,adj.,類似的,The heart is analogous to a pump.,心臟的作用類似幫浦。,7.5
+analyst,n.,分析師,A market analyst reviewed the figures.,一位市場分析師檢視了這些數據。,6.5
+analyze,v.,分析,Scientists analyze the samples in the lab.,科學家在實驗室分析樣本。,6.5
+anatomy,n.,解剖學;結構,Medical students study human anatomy.,醫學生研讀人體解剖學。,7.0
+anthropology,n.,人類學,She majored in cultural anthropology.,她主修文化人類學。,7.5
+calculus,n.,微積分,Engineering students must learn calculus.,工科學生必須學微積分。,7.0
+characteristic,n.,特徵,Patience is a key characteristic of good teachers.,耐心是好老師的關鍵特質。,6.5
+characterize,v.,以…為特徵,Heavy rain characterizes the wet season.,豪雨是雨季的特徵。,7.5
+comprehension,n.,理解力,The test measures reading comprehension.,這項測驗評量閱讀理解力。,6.5
+comprehensive,adj.,全面的,The report gives a comprehensive overview.,這份報告提供了全面的概觀。,7.0
+derivative,n.,衍生物,The drug is a derivative of a common plant.,這種藥是一種常見植物的衍生物。,7.5
+differential,adj.,差別的;微分的,The policy has a differential effect on the poor.,這項政策對窮人有差別性的影響。,7.5
+element,n.,元素;要素,Trust is a vital element of teamwork.,信任是團隊合作的重要要素。,6.0
+emphasis,n.,強調;重點,The course places emphasis on speaking.,這門課著重口說。,6.5
+formula,n.,公式;配方,The formula predicts the rate of decay.,這道公式能預測衰變的速率。,6.5
+frequency,n.,頻率,The frequency of storms has increased.,風暴的發生頻率增加了。,6.5
+fundamental,adj.,基本的,There is a fundamental flaw in the design.,這個設計有根本上的缺陷。,7.0
+generic,adj.,通用的;一般的,Generic drugs are cheaper than brand names.,學名藥比品牌藥便宜。,7.0
+geology,n.,地質學,The team studied the geology of the region.,團隊研究了該地區的地質。,7.0
+logic,n.,邏輯,There is no logic in his argument.,他的論點毫無邏輯。,6.5
+logical,adj.,合乎邏輯的,That is the only logical conclusion.,那是唯一合乎邏輯的結論。,6.5
+matrix,n.,矩陣;母體,The data is stored in a matrix.,資料以矩陣形式儲存。,7.5
+metaphor,n.,隱喻,The poem is full of vivid metaphors.,這首詩充滿生動的隱喻。,7.0
+mutation,n.,突變,A random mutation gave the moth its colour.,一次隨機突變給了這隻蛾牠的顏色。,7.5
+nucleus,n.,核;原子核,The nucleus lies at the centre of the atom.,原子核位於原子的中心。,7.0
+philosophy,n.,哲學;理念,Her teaching philosophy centres on curiosity.,她的教學理念以好奇心為核心。,6.5
+physics,n.,物理學,He teaches physics at a high school.,他在一所高中教物理。,6.0
+physicist,n.,物理學家,The physicist won a major prize.,這位物理學家贏得一項大獎。,6.5
+physiology,n.,生理學,The course covers the physiology of the heart.,這門課涵蓋心臟的生理學。,7.5
+sequence,n.,順序;序列,The steps must follow the correct sequence.,這些步驟必須依正確順序進行。,6.5
+spectrum,n.,光譜;範圍,Opinions cover the whole political spectrum.,各種意見涵蓋整個政治光譜。,7.0
+symmetry,n.,對稱,The building is admired for its symmetry.,這棟建築因其對稱而受讚賞。,7.0
+systematic,adj.,有系統的,They took a systematic approach to the problem.,他們以有系統的方式處理問題。,7.0
+technique,n.,技巧,She mastered a new painting technique.,她掌握了一種新的繪畫技巧。,6.0
+velocity,n.,速度,The velocity of the ball was measured precisely.,球的速度被精確測量。,7.0
+momentum,n.,動能;氣勢,The campaign is gaining momentum.,這場運動的聲勢日益壯大。,7.0
+magnitude,n.,規模;重要性,No one grasped the magnitude of the change.,沒有人領會到這場變革的規模。,7.5
+gradient,n.,坡度;梯度,The road climbs at a steep gradient.,這條路以陡峭的坡度攀升。,7.5
+vacuum,n.,真空;空缺,Sound cannot travel in a vacuum.,聲音無法在真空中傳播。,7.0
+microscope,n.,顯微鏡,Bacteria are visible under a microscope.,細菌在顯微鏡下可見。,6.5
+microscopic,adj.,微觀的;極小的,The damage was only microscopic.,損傷只是微觀層級的。,7.5
+apparatus,n.,儀器;裝置,The lab installed new apparatus.,實驗室裝設了新儀器。,7.5
+molecule,n.,分子,A water molecule has three atoms.,一個水分子有三個原子。,7.0
+particle,n.,粒子,Dust particles floated in the sunlight.,塵埃粒子在陽光中飄浮。,7.0
+density,n.,密度,Lead has a very high density.,鉛的密度非常高。,6.5
+equation,n.,方程式,The equation has two solutions.,這道方程式有兩個解。,6.5
+diameter,n.,直徑,The pipe has a diameter of ten centimetres.,這根管子的直徑為十公分。,6.5
+axis,n.,軸,The earth spins on its axis.,地球繞著地軸自轉。,7.0
+theorem,n.,定理,The theorem was proved centuries ago.,這條定理在幾個世紀前就已證明。,7.5
+evolution,n.,演化,The theory of evolution reshaped biology.,演化論重塑了生物學。,6.5
+genesis,n.,起源,The book traces the genesis of the idea.,這本書追溯了這個構想的起源。,7.5
+paradox,n.,悖論,It is a paradox that spending saves money.,花錢反而省錢是個弔詭之處。,7.5
+ancestry,n.,祖先;血統,She traced her ancestry back three centuries.,她把家族血統追溯到三個世紀前。,7.0
+brotherhood,n.,手足情誼;兄弟會,The team shared a strong sense of brotherhood.,這支隊伍有著深厚的手足情誼。,7.0
+caste,n.,種姓;階級,The old caste system still shapes society there.,舊有的種姓制度仍形塑著那裡的社會。,7.5
+casualty,n.,傷亡者,There were no casualties in the fire.,這場火災沒有人員傷亡。,7.0
+clan,n.,家族;宗族,The whole clan gathered for the reunion.,整個家族齊聚團圓。,7.0
+counterpart,n.,對應的人事物,The minister met her foreign counterpart.,部長會見了外國的對應官員。,7.5
+foreigner,n.,外國人,The festival attracts many foreigners.,這個慶典吸引許多外國人。,6.0
+humanitarian,adj.,人道主義的,They launched a humanitarian appeal for the region.,他們為該地區發起人道救援募款。,7.5
+immigrant,n.,移民,The city welcomed thousands of immigrants.,這座城市接納了數以千計的移民。,6.5
+migrant,n.,移居者;候鳥,Many migrants work on seasonal farms.,許多移工在季節性農場工作。,7.0
+nationality,n.,國籍,Please state your name and nationality.,請填寫你的姓名與國籍。,6.0
+populace,n.,民眾,The reforms were popular with the populace.,這些改革受到民眾歡迎。,7.5
+populous,adj.,人口稠密的,It is the most populous city in the region.,這是該地區人口最多的城市。,7.5
+privilege,n.,特權;榮幸,Education should be a right not a privilege.,教育應是權利而非特權。,7.0
+disparity,n.,差異;懸殊,There is a wide disparity in incomes.,收入之間存在巨大差距。,7.5
+hostility,n.,敵意,The plan met open hostility.,這項計畫遭到公開的敵視。,7.5
+intolerance,n.,不寬容,Intolerance of others breeds conflict.,對他人的不寬容滋生衝突。,7.5
+philanthropy,n.,慈善,She devoted her fortune to philanthropy.,她將財產投入慈善事業。,7.5
+heresy,n.,異端,His views were once condemned as heresy.,他的觀點曾被斥為異端。,7.5
+pagan,adj.,異教的,The festival has pagan origins.,這個節慶源自異教。,7.5
+ceremonial,adj.,儀式的,The sword is used for ceremonial purposes.,這把劍用於儀式場合。,7.0
+deity,n.,神;神明,The temple is dedicated to a local deity.,這座廟宇供奉一位地方神明。,7.5
+divinity,n.,神性;神學,He studied divinity at university.,他在大學研讀神學。,7.5
+altar,n.,祭壇,Flowers were placed on the altar.,鮮花被擺放在祭壇上。,7.0
+monastery,n.,修道院,The monastery sits high in the mountains.,這座修道院位於高山之上。,7.0
+anthology,n.,選集,The anthology collects poems from ten countries.,這本選集收錄了十個國家的詩作。,7.5
+autobiography,n.,自傳,She is writing her autobiography.,她正在撰寫自傳。,7.0
+narrative,n.,敘事,The film has a gripping narrative.,這部電影有著扣人心弦的敘事。,7.0
+narrator,n.,敘述者,The narrator tells the story in the first person.,敘述者以第一人稱講述故事。,7.0
+poetic,adj.,詩意的,The description was almost poetic.,那段描述近乎詩意。,7.0
+lyric,n.,歌詞;抒情詩,The lyric captures a sense of longing.,這段歌詞捕捉了一種渴望之情。,7.0
+satire,n.,諷刺(作品),The play is a sharp satire on politics.,這齣戲是對政治的辛辣諷刺。,7.5
+parody,n.,戲仿;拙劣模仿,The sketch is a parody of the news.,這段短劇是對新聞的戲仿。,7.5
+rhetoric,n.,修辭;花言巧語,His speech was full of empty rhetoric.,他的演說滿是空洞的華麗辭藻。,7.5
+sarcasm,n.,諷刺;挖苦,There was a hint of sarcasm in her voice.,她的語氣中帶著一絲挖苦。,7.0
+prestige,n.,聲望,The award carries great prestige.,這個獎項享有崇高的聲望。,7.0
+solidarity,n.,團結,Workers marched in solidarity.,勞工們團結一致地遊行。,7.5
+tribe,n.,部落,The tribe has lived here for generations.,這個部落世代居住於此。,6.5
+custom,n.,習俗,Removing shoes indoors is a local custom.,室內脫鞋是當地的習俗。,6.0
+descendant,n.,後代,She is a descendant of a famous poet.,她是一位著名詩人的後代。,7.0
+kinship,n.,親屬關係,Kinship ties remain strong in the village.,親屬關係在這個村莊依然緊密。,7.5
+patriotism,n.,愛國心,The song stirred a sense of patriotism.,這首歌激起了愛國之情。,7.0
+minority,n.,少數(族群),The policy protects ethnic minorities.,這項政策保護少數族裔。,6.5
+elite,n.,菁英,A small elite controlled most of the wealth.,一小群菁英掌控了大部分財富。,7.0
+hierarchy,n.,階層;等級,The company has a rigid hierarchy.,這家公司有嚴格的層級制度。,7.5
+convention,n.,慣例;大會,It is a social convention to shake hands.,握手是一種社交慣例。,6.5
+assimilate,v.,同化;吸收,Immigrants gradually assimilate into society.,移民逐漸融入社會。,7.5
+displace,v.,使流離失所;取代,The flood displaced thousands of families.,洪水使數千個家庭流離失所。,7.0
+inherit,v.,繼承,She inherited the house from her aunt.,她從姑姑那裡繼承了這棟房子。,6.5
+oppress,v.,壓迫,The regime oppressed its own people.,這個政權壓迫自己的人民。,7.5
+exile,n.,流亡,The poet spent years in exile.,這位詩人流亡多年。,7.5
+refugee,n.,難民,The camp shelters thousands of refugees.,這座營區收容了數千名難民。,6.5
+generation,n.,世代,Each generation faces new challenges.,每個世代都面臨新的挑戰。,6.0
+ethnic,adj.,種族的;民族的,The city is home to many ethnic groups.,這座城市是眾多族群的家園。,6.5
+indigenous,adj.,原住民的;本土的,Indigenous languages are slowly disappearing.,原住民語言正逐漸消失。,7.5
+sacred,adj.,神聖的,The mountain is sacred to the local people.,這座山對當地人是神聖的。,7.0
+secular,adj.,世俗的,The country has a secular government.,這個國家實行世俗政府。,7.5
+tribal,adj.,部落的,Tribal customs are passed down orally.,部落習俗以口耳相傳的方式流傳。,7.0
+communal,adj.,公共的;共有的,The building shares a communal garden.,這棟建築有一座共用的花園。,7.5
+ache,n.,疼痛,A dull ache spread across his shoulders.,一陣隱隱的痛在他肩上蔓延。,6.0
+ambulance,n.,救護車,An ambulance rushed him to hospital.,一輛救護車將他緊急送醫。,6.0
+cardiac,adj.,心臟的,He was admitted with a cardiac condition.,他因心臟疾病住院。,7.5
+calorie,n.,卡路里,This snack is low in calories.,這款零食熱量很低。,6.0
+inflammation,n.,發炎,The cream reduces inflammation.,這款藥膏能減輕發炎。,7.0
+ligament,n.,韌帶,She tore a ligament during the match.,她在比賽中拉傷了韌帶。,7.5
+malaria,n.,瘧疾,Mosquito nets help prevent malaria.,蚊帳有助於預防瘧疾。,7.0
+malignant,adj.,惡性的,The tumour was found to be malignant.,腫瘤被檢查出是惡性的。,7.5
+meditation,n.,冥想,Daily meditation helps her stay calm.,每日冥想幫助她保持平靜。,6.5
+nausea,n.,噁心,The medicine may cause mild nausea.,這種藥可能引起輕微噁心。,7.0
+obese,adj.,肥胖的,The clinic helps obese patients lose weight.,這家診所協助肥胖患者減重。,7.0
+overdose,n.,用藥過量,He nearly died of an overdose.,他差點因用藥過量喪命。,7.0
+overweight,adj.,超重的,Many office workers are slightly overweight.,許多上班族略微超重。,6.5
+pandemic,n.,大流行病,The pandemic changed how we work.,這場大流行病改變了我們的工作方式。,7.0
+paralysis,n.,癱瘓,The accident left him with partial paralysis.,這場事故使他半身癱瘓。,7.5
+pharmacy,n.,藥局,The pharmacy is open until midnight.,這家藥局營業到午夜。,6.5
+psychiatry,n.,精神病學,She specializes in child psychiatry.,她專攻兒童精神醫學。,7.5
+pulmonary,adj.,肺的,The disease affects the pulmonary system.,這種疾病影響肺部系統。,7.5
+quarantine,n.,隔離,Travellers were placed in quarantine.,旅客被安排隔離。,7.0
+gastric,adj.,胃的,He suffers from a gastric ulcer.,他患有胃潰瘍。,7.5
+nasal,adj.,鼻的,The spray relieves nasal congestion.,這款噴劑能緩解鼻塞。,7.5
+autopsy,n.,驗屍,An autopsy revealed the cause of death.,驗屍揭示了死因。,7.5
+obituary,n.,訃聞,The newspaper printed a long obituary.,報紙刊登了一篇長篇訃聞。,7.5
+infirmary,n.,醫務室;醫院,The school infirmary treats minor injuries.,學校醫務室處理輕微的傷勢。,7.5
+allergy,n.,過敏,She has a severe nut allergy.,她對堅果嚴重過敏。,6.0
+dose,n.,劑量,Take one dose every eight hours.,每八小時服用一劑。,6.5
+surgeon,n.,外科醫師,The surgeon performed a delicate operation.,外科醫師進行了一場精細的手術。,6.5
+infection,n.,感染,The wound became infected.,傷口受到了感染。,6.0
+wound,n.,傷口,The nurse cleaned the wound carefully.,護理師仔細清理了傷口。,6.0
+bruise,n.,瘀傷,A bruise appeared on her arm.,她的手臂上出現了瘀青。,6.0
+fracture,n.,骨折,An X-ray confirmed the fracture.,X 光確認了骨折。,6.5
+sprain,v.,扭傷,He sprained his ankle on the stairs.,他在樓梯上扭傷了腳踝。,6.5
+sanitary,adj.,衛生的,The kitchen must meet sanitary standards.,廚房必須符合衛生標準。,7.0
+sedative,n.,鎮靜劑,The doctor prescribed a mild sedative.,醫師開了溫和的鎮靜劑。,7.5
+respiratory,adj.,呼吸的,Smoking harms the respiratory system.,吸菸傷害呼吸系統。,7.0
+digestion,n.,消化,Fibre aids digestion.,纖維有助於消化。,6.5
+posture,n.,姿勢,Good posture prevents back pain.,良好的姿勢能預防背痛。,6.5
+nerve,n.,神經;膽量,The dentist touched a nerve.,牙醫碰到了一條神經。,6.5
+tissue,n.,組織;面紙,Scar tissue formed over the wound.,傷口上形成了疤痕組織。,6.5
+organ,n.,器官,The liver is a vital organ.,肝臟是重要的器官。,6.0
+spine,n.,脊椎,The fall injured her spine.,這一摔傷了她的脊椎。,6.5
+skeleton,n.,骨骼,The skeleton supports the whole body.,骨骼支撐著整個身體。,6.5
+muscle,n.,肌肉,Stretching keeps the muscles flexible.,伸展能保持肌肉的柔軟。,6.0
+vein,n.,靜脈,Blood returns to the heart through the veins.,血液透過靜脈流回心臟。,6.5
+pulse,n.,脈搏,The nurse checked his pulse.,護理師量了他的脈搏。,6.0
+inhale,v.,吸入,Do not inhale the fumes.,切勿吸入這些廢氣。,6.5
+advent,n.,到來;出現,The advent of the internet changed everything.,網際網路的出現改變了一切。,7.5
+adversity,n.,逆境,She showed courage in the face of adversity.,她在逆境中展現勇氣。,7.5
+continuation,n.,延續,The talks are a continuation of last year's efforts.,這些會談是去年努力的延續。,7.0
+continuity,n.,連貫性,The handover ensured continuity of care.,交接確保了照護的連貫性。,7.5
+continuous,adj.,持續的,The machine emits a continuous hum.,這台機器發出持續的嗡嗡聲。,6.5
+duration,n.,持續期間,The course runs for the duration of the term.,這門課持續整個學期。,7.0
+emergence,n.,出現;興起,The emergence of new markets created jobs.,新市場的興起創造了就業機會。,7.5
+eventual,adj.,最終的,Their eventual success took years.,他們最終的成功歷經多年。,7.0
+excess,n.,過量;超過,An excess of sugar harms health.,過量的糖分有害健康。,7.0
+expectancy,n.,預期;期望,Life expectancy has risen steadily.,平均壽命穩定上升。,7.0
+incidence,n.,發生率,The incidence of the disease is falling.,這種疾病的發生率正在下降。,7.5
+incident,n.,事件,A minor incident delayed the flight.,一起小事件延誤了班機。,6.5
+inception,n.,開端;創始,The club has grown since its inception.,這個社團自成立以來不斷壯大。,7.5
+interim,adj.,過渡的;暫時的,An interim leader was appointed.,一位過渡時期的領導人被任命。,7.5
+likelihood,n.,可能性,There is little likelihood of rain.,下雨的可能性很小。,7.0
+occasion,n.,場合;時機,She wore the dress for a special occasion.,她在特殊場合穿這件洋裝。,6.0
+occurrence,n.,發生;事件,Floods are a common occurrence here.,水災在這裡是常見的事。,7.0
+onset,n.,開始;發作,The onset of winter came early.,冬天提早到來。,7.5
+progression,n.,發展;進展,The disease has a slow progression.,這種疾病進展緩慢。,7.0
+transition,n.,過渡;轉變,The transition to a new system took months.,過渡到新系統花了數月。,7.0
+urgency,n.,緊急,The matter requires urgency.,此事需要緊急處理。,7.0
+variance,n.,差異;變異,There is little variance between the samples.,樣本之間差異不大。,7.5
+variant,n.,變種;變體,A new variant of the virus appeared.,病毒的新變種出現了。,7.0
+variation,n.,變化,Seasonal variation affects sales.,季節變化影響銷售。,6.5
+prevalence,n.,盛行,The prevalence of smartphones is striking.,智慧型手機的普及程度驚人。,7.5
+retention,n.,保留;記憶力,The course improves knowledge retention.,這門課能提升知識的記憶保留。,7.5
+revelation,n.,揭露;驚人的事,The report contained a shocking revelation.,這份報告揭露了驚人的內幕。,7.5
+instant,adj.,立即的,The app gives instant feedback.,這款應用程式提供即時回饋。,6.0
+subsequent,adj.,隨後的,Subsequent tests confirmed the result.,後續的測試證實了結果。,7.0
+prior,adj.,先前的,No prior experience is required.,不需要先前的經驗。,6.5
+gradual,adj.,逐漸的,There was a gradual rise in temperature.,氣溫逐漸上升。,6.5
+perpetual,adj.,永久的;不斷的,She lives in perpetual fear of failure.,她活在對失敗永無止盡的恐懼中。,7.5
+fleeting,adj.,短暫的,We caught only a fleeting glimpse.,我們只瞥見短暫的一眼。,7.5
+overdue,adj.,逾期的,The library book is overdue.,這本圖書館的書逾期了。,6.5
+consequence,n.,後果,He faced the consequences of his choice.,他承擔了自己選擇的後果。,6.5
+outcome,n.,結果,No one could predict the outcome.,沒有人能預測結果。,6.0
+implication,n.,含意;影響,The findings have serious implications.,這些發現有嚴重的影響。,7.0
+aftermath,n.,餘波;後果,The town rebuilt in the aftermath of the storm.,這座小鎮在風暴過後重建。,7.5
+repercussion,n.,不良後果,The scandal had lasting repercussions.,這起醜聞造成了長遠的後果。,7.5
+threshold,n.,門檻;界限,Sales crossed an important threshold.,銷售額跨越了一個重要門檻。,7.5
+milestone,n.,里程碑,The launch was a major milestone.,這次發布是一個重要的里程碑。,7.0
+turning point,n.,轉捩點,The match was a turning point in her career.,這場比賽是她職涯的轉捩點。,7.0
+proportion,n.,比例,A large proportion of students walk to school.,很大比例的學生走路上學。,6.5
+fraction,n.,小部分;分數,Only a fraction of the budget was used.,只用掉了一小部分預算。,6.5
+surplus,n.,盈餘;過剩,The country has a trade surplus.,這個國家有貿易順差。,7.0
+abundance,n.,豐富,The region has an abundance of wildlife.,這個地區野生動物豐富。,7.0
+accumulation,n.,累積,The accumulation of snow blocked the road.,積雪封住了道路。,7.0
+fluctuation,n.,波動,Price fluctuations worried investors.,價格波動令投資人擔憂。,7.5
+escalate,v.,升高;加劇,The dispute quickly escalated.,爭端迅速升級。,7.5
+persist,v.,持續;堅持,The symptoms persisted for weeks.,症狀持續了好幾週。,7.0
+prolong,v.,延長,The treatment can prolong life.,這種療法能延長生命。,7.0
+cease,v.,停止,The rain finally ceased.,雨終於停了。,6.5
+commence,v.,開始,The ceremony will commence at noon.,典禮將於中午開始。,7.0
+culminate,v.,達到頂點,The tour culminates in a grand concert.,巡演以一場盛大的演唱會作結。,7.5
+subside,v.,減退;平息,The floodwaters slowly subsided.,洪水慢慢退去。,7.5
+recur,v.,再發生,The problem may recur without treatment.,若不處理問題可能再度發生。,7.0
+stabilize,v.,使穩定,Prices began to stabilize.,物價開始趨於穩定。,7.0
+intensify,v.,加強,The storm is expected to intensify.,預計這場風暴將增強。,7.0
+alternate,v.,交替,The pattern alternates between light and dark.,這個圖案在明暗之間交替。,7.0
+lapse,n.,失誤;流逝,A brief lapse in concentration cost the game.,一時的分心讓比賽輸掉了。,7.5
+dialogue,n.,對話,The film relies on sharp dialogue.,這部電影仰賴犀利的對白。,6.5
+commentary,n.,評論;實況報導,The match came with live commentary.,這場比賽附有現場實況評論。,7.0
+critique,n.,評論;批評,She wrote a thoughtful critique of the novel.,她為這部小說寫了一篇深思熟慮的評論。,7.5
+transcript,n.,文字記錄;成績單,Please submit your academic transcript.,請繳交你的學業成績單。,7.0
+translator,n.,翻譯者,A translator rendered the speech into English.,一位譯者將演說譯成英文。,6.5
+interpreter,n.,口譯員,The interpreter worked between three languages.,這位口譯員在三種語言間轉譯。,7.0
+syllable,n.,音節,The word has three syllables.,這個字有三個音節。,6.5
+literal,adj.,字面的,That is the literal meaning of the phrase.,那是這個片語的字面意思。,7.0
+narration,n.,旁白;敘述,The documentary uses calm narration.,這部紀錄片使用平靜的旁白。,7.5
+summary,n.,摘要,Write a brief summary of the article.,替這篇文章寫一段簡短的摘要。,6.0
+affirmative,adj.,肯定的,She gave an affirmative nod.,她肯定地點了點頭。,7.5
+assert,v.,斷言;主張,She asserted her right to speak.,她主張自己有發言的權利。,7.0
+denote,v.,表示,A red light denotes danger.,紅燈表示危險。,7.5
+convey,v.,傳達,Words alone cannot convey her joy.,言語無法傳達她的喜悅。,7.0
+summarize,v.,總結,Let me summarize the main points.,讓我總結一下要點。,6.0
+depict,v.,描繪,The mural depicts village life.,這幅壁畫描繪了鄉村生活。,7.0
+narrate,v.,敘述,She narrated the story with warmth.,她溫暖地講述著這個故事。,7.0
+recite,v.,背誦,The children recited a short poem.,孩子們背誦了一首短詩。,6.5
+utter,v.,說出,He did not utter a single word.,他一個字都沒說。,7.0
+exclaim,v.,呼喊,She exclaimed in delight.,她高興地叫了起來。,6.5
+murmur,v.,低聲說,He murmured a quiet thank you.,他低聲道了謝。,7.0
+insight,n.,洞見,The book offers fresh insight into the topic.,這本書為這個主題提供了新的洞見。,7.0
+dilemma,n.,兩難,She faced a difficult moral dilemma.,她面臨艱難的道德兩難。,7.0
+notion,n.,概念;想法,He rejected the notion entirely.,他完全否定了這個想法。,7.0
+assumption,n.,假設,The plan rests on a risky assumption.,這個計畫建立在一個冒險的假設上。,7.0
+rationale,n.,理由;根據,Explain the rationale behind your choice.,請說明你選擇背後的理由。,7.5
+reasoning,n.,推理,Her reasoning was sound.,她的推理站得住腳。,7.0
+perspective,n.,觀點,Try to see it from another perspective.,試著從另一個角度看待它。,6.5
+skepticism,n.,懷疑,The claim was met with skepticism.,這項主張引來懷疑。,7.5
+contradiction,n.,矛盾,His story was full of contradictions.,他的說法充滿矛盾。,7.0
+distinction,n.,區別;殊榮,There is a clear distinction between the two.,兩者之間有明顯的區別。,7.0
+speculation,n.,推測,The news sparked wild speculation.,這則消息引發了各種揣測。,7.0
+interpretation,n.,詮釋,The poem allows many interpretations.,這首詩容許多種詮釋。,7.0
+misconception,n.,誤解,It is a common misconception.,這是一個常見的誤解。,7.5
+ambiguity,n.,模糊;歧義,The wording left room for ambiguity.,這樣的措辭留下了模糊的空間。,7.5
+irony,n.,諷刺;反諷,There is a bitter irony in the outcome.,這個結果帶著苦澀的反諷。,7.5
+query,n.,疑問,She raised a query about the figures.,她對這些數字提出了疑問。,7.0
+inquiry,n.,詢問;調查,The office handles public inquiries.,這個辦公室處理民眾的查詢。,6.5
+dispute,n.,爭論,The dispute was settled peacefully.,這場爭端和平解決了。,6.5
+objection,n.,反對,She raised no objection to the plan.,她對這項計畫沒有異議。,6.5
+persuasion,n.,說服,It took some persuasion to convince him.,費了一番說服才讓他點頭。,7.0
+consent,n.,同意,The patient gave written consent.,病患簽署了書面同意書。,7.0
+affirmation,n.,肯定;斷言,She nodded in affirmation.,她點頭表示肯定。,7.5
+discourse,n.,論述;談話,The topic dominates public discourse.,這個議題主導著公共論述。,7.5
+proposition,n.,主張;提議,It is an attractive proposition.,這是個吸引人的提議。,7.5
+terminology,n.,術語,Legal terminology can be confusing.,法律術語可能令人困惑。,7.0
+connotation,n.,含意,The word carries a negative connotation.,這個字帶有負面的含意。,7.5
+articulation,n.,清晰的表達,Her articulation of the plan was flawless.,她對計畫的闡述無懈可擊。,7.5
+verbal,adj.,口頭的;言語的,They reached a verbal agreement.,他們達成了口頭協議。,6.5
+verbose,adj.,冗長的,The report was verbose and unclear.,這份報告冗長又不清楚。,7.5
+persuasive,adj.,有說服力的,She made a persuasive argument.,她提出了有說服力的論點。,7.0
+abnormal,adj.,不正常的,The test showed an abnormal reading.,檢測顯示出異常的數值。,6.5
+accessible,adj.,可到達的;易取得的,The museum is accessible by bus.,這座博物館搭公車就能到。,6.5
+angular,adj.,有稜角的,The building has a striking angular shape.,這棟建築有著醒目的稜角外形。,7.5
+antique,adj.,古董的,She collects antique clocks.,她收藏古董時鐘。,6.5
+beneficial,adj.,有益的,Regular exercise is beneficial to health.,規律運動有益健康。,6.5
+bodily,adj.,身體的,The illness caused no lasting bodily harm.,這場病沒有造成持久的身體傷害。,7.0
+casual,adj.,隨意的;非正式的,The office has a casual dress code.,這間辦公室的服裝規定很隨性。,6.0
+cohesive,adj.,有凝聚力的,A cohesive team works well together.,有凝聚力的團隊合作無間。,7.5
+collective,adj.,集體的,It was a collective effort by the whole class.,這是全班的集體努力。,7.0
+comparative,adj.,比較的;相對的,They live in comparative comfort.,他們過著相對舒適的生活。,7.5
+contingent,adj.,視情況而定的,The plan is contingent on funding.,這項計畫視經費而定。,7.5
+contradictory,adj.,矛盾的,The reports were contradictory.,這些報告相互矛盾。,7.5
+covert,adj.,祕密的,The agency ran a covert operation.,這個機構進行了一項祕密行動。,7.5
+decent,adj.,像樣的;正派的,He earns a decent salary.,他賺著一份還不錯的薪水。,6.5
+defensive,adj.,防禦的;戒備的,She became defensive when questioned.,受到質問時她變得有戒心。,7.0
+deficient,adj.,不足的;缺乏的,The diet is deficient in iron.,這種飲食缺乏鐵質。,7.5
+dominant,adj.,佔優勢的,English is the dominant language online.,英語是網路上的主流語言。,7.0
+dormant,adj.,休眠的,The volcano has been dormant for centuries.,這座火山已休眠數百年。,7.5
+efficient,adj.,有效率的,The new system is faster and more efficient.,新系統更快也更有效率。,6.0
+eligible,adj.,有資格的,Only members are eligible to vote.,只有會員有投票資格。,7.0
+exemplary,adj.,模範的,Her conduct was exemplary throughout.,她自始至終行為堪為典範。,7.5
+exhaustive,adj.,詳盡的,They carried out an exhaustive review.,他們進行了一次詳盡的檢視。,7.5
+expressive,adj.,富有表現力的,She has a wonderfully expressive face.,她的臉部表情極為豐富。,7.0
+extinct,adj.,絕種的,The species became extinct decades ago.,這個物種在數十年前就已絕種。,6.5
+fabulous,adj.,極好的,We had a fabulous time at the beach.,我們在海邊玩得非常盡興。,6.0
+feminine,adj.,女性的,The design has a soft feminine touch.,這個設計帶有柔和的女性氣息。,6.5
+festive,adj.,節慶的,The streets had a festive atmosphere.,街上洋溢著節慶的氣氛。,6.5
+fraudulent,adj.,詐欺的,The bank spotted a fraudulent transaction.,銀行發現了一筆詐欺交易。,7.5
+hereditary,adj.,遺傳的;世襲的,The condition is hereditary.,這種病症會遺傳。,7.5
+illicit,adj.,非法的,The port is used for illicit trade.,這個港口被用於非法貿易。,7.5
+immoral,adj.,不道德的,Many found the practice immoral.,許多人認為這種做法不道德。,7.0
+impartial,adj.,公正的,A judge must remain impartial.,法官必須保持公正。,7.5
+imperative,adj.,緊急必要的,It is imperative that we act now.,我們現在就採取行動至關重要。,7.5
+improper,adj.,不恰當的,The funds were used for improper purposes.,這筆資金被挪作不當用途。,7.0
+infinite,adj.,無限的,The universe may be infinite.,宇宙也許是無限的。,6.5
+influential,adj.,有影響力的,She is an influential voice in the field.,她在這個領域是具影響力的聲音。,7.0
+intellectual,adj.,智力的,The book is an intellectual challenge.,這本書是一場智力上的挑戰。,7.0
+intensive,adj.,密集的,He took an intensive language course.,他上了一門密集語言課程。,6.5
+intermediate,adj.,中級的,The class suits intermediate learners.,這門課適合中級學習者。,6.0
+involuntary,adj.,不由自主的,Blinking is an involuntary action.,眨眼是一種不由自主的動作。,7.5
+irrational,adj.,不理性的,His fear of flying is irrational.,他對搭飛機的恐懼並不理性。,7.0
+irresponsible,adj.,不負責任的,It was irresponsible to leave the child alone.,把孩子單獨留下很不負責任。,6.5
+juvenile,adj.,青少年的;幼稚的,The centre handles juvenile cases.,這個中心處理青少年案件。,7.0
+lateral,adj.,側面的,The plant sends out lateral shoots.,這株植物長出了側枝。,7.5
+liable,adj.,有責任的;易於…的,The driver is liable for the damage.,駕駛人須為損害負責。,7.0
+mountainous,adj.,多山的,The north of the country is mountainous.,這個國家的北部多山。,6.5
+negligent,adj.,疏忽的,The company was found negligent.,這家公司被認定有過失。,7.5
+neutral,adj.,中立的,The country stayed neutral in the war.,這個國家在戰爭中保持中立。,6.5
+nominal,adj.,名義上的;極小的,He is the nominal head of the firm.,他是公司名義上的負責人。,7.5
+numerical,adj.,數字的,The data is shown in numerical form.,資料以數字形式呈現。,7.0
+predatory,adj.,掠食性的,Owls are predatory birds.,貓頭鷹是掠食性鳥類。,7.5
+premature,adj.,過早的,It is premature to celebrate.,現在慶祝還太早。,7.0
+primitive,adj.,原始的,The tribe uses primitive tools.,這個部落使用原始的工具。,6.5
+productive,adj.,多產的;富有成效的,It was a productive meeting.,這是一場富有成效的會議。,6.5
+protective,adj.,保護的,She is very protective of her students.,她對學生非常保護。,6.5
+provincial,adj.,省的;地方的,He moved from a provincial town to the capital.,他從一個地方小鎮搬到首都。,7.5
+receptive,adj.,樂於接受的,The manager was receptive to new ideas.,這位經理樂於接受新點子。,7.5
+resistant,adj.,有抵抗力的,The crop is resistant to disease.,這種作物對病害有抵抗力。,7.0
+scholarly,adj.,學術的,The journal publishes scholarly articles.,這本期刊刊登學術文章。,7.0
+sensitive,adj.,敏感的,This is a sensitive topic for many.,對許多人來說這是個敏感話題。,6.0
+stationary,adj.,靜止的,The car remained stationary at the lights.,車子停在紅綠燈前不動。,7.0
+stringent,adj.,嚴格的,The lab follows stringent safety rules.,實驗室遵循嚴格的安全規範。,7.5
+subordinate,adj.,下級的;次要的,He plays a subordinate role in the team.,他在團隊中扮演次要的角色。,7.5
+suspicious,adj.,可疑的;起疑的,The neighbours reported suspicious activity.,鄰居通報了可疑的活動。,6.5
+temporal,adj.,時間的;世俗的,The film explores temporal themes.,這部電影探討與時間有關的主題。,7.5
+territorial,adj.,領土的;地盤性的,The dispute is territorial.,這場爭端與領土有關。,7.5
+troublesome,adj.,麻煩的,The old software is troublesome to update.,這款舊軟體更新起來很麻煩。,7.0
+unbearable,adj.,無法忍受的,The heat was almost unbearable.,那股熱幾乎令人無法忍受。,7.0
+unbiased,adj.,無偏見的,We need an unbiased assessment.,我們需要一份客觀的評估。,7.5
+unconscious,adj.,失去知覺的;無意識的,He was knocked unconscious by the fall.,他摔倒後失去了知覺。,7.0
+absence,n.,缺席;缺乏,Her absence was noticed at once.,大家立刻察覺到她的缺席。,6.0
+accuracy,n.,準確性,The report was praised for its accuracy.,這份報告因準確而受到讚許。,6.5
+accusation,n.,指控,He denied the accusation firmly.,他堅決否認這項指控。,7.0
+alteration,n.,更改,The dress needs a small alteration.,這件洋裝需要小小的修改。,7.0
+amusement,n.,娛樂;樂趣,She watched with quiet amusement.,她饒有興味地靜靜看著。,6.5
+anarchy,n.,無政府狀態,The collapse led to a period of anarchy.,這場崩潰導致了一段無政府時期。,7.5
+arrangement,n.,安排;排列,We made an arrangement to meet weekly.,我們約定每週見一次面。,6.0
+arrival,n.,抵達,His arrival caused a stir.,他的到來引起一陣騷動。,6.0
+ascent,n.,攀登;上升,The ascent to the summit took six hours.,登頂花了六個小時。,7.0
+authenticity,n.,真實性,Experts confirmed the painting's authenticity.,專家確認了這幅畫的真實性。,7.5
+avalanche,n.,雪崩,An avalanche blocked the mountain road.,一場雪崩封住了山路。,7.0
+chaos,n.,混亂,The strike caused chaos at the airport.,罷工造成機場一片混亂。,6.5
+clearance,n.,清倉;許可,The store held a clearance sale.,這家店舉行了清倉特賣。,7.0
+coincidence,n.,巧合,By coincidence we chose the same seat.,我們碰巧選了同一個座位。,6.5
+competence,n.,能力,She showed real competence in her first week.,她在第一週就展現了真本事。,7.0
+complement,n.,補足物,The wine is a fine complement to the meal.,這款酒是這頓飯絕佳的搭配。,7.5
+complication,n.,併發症;複雜情況,An unexpected complication delayed the surgery.,一項意外的併發症延誤了手術。,7.0
+component,n.,組成部分,Trust is a key component of any friendship.,信任是任何友誼的關鍵組成。,6.5
+concession,n.,讓步,Neither side would make a concession.,雙方都不肯讓步。,7.5
+confinement,n.,監禁;限制,He was kept in solitary confinement.,他被單獨監禁。,7.5
+consistency,n.,一致性,Consistency is the key to good habits.,持之以恆是養成好習慣的關鍵。,7.0
+convenience,n.,便利,Online banking offers great convenience.,網路銀行提供極大的便利。,6.0
+corrosion,n.,腐蝕,Salt water speeds up corrosion.,鹽水會加速腐蝕。,7.0
+curator,n.,策展人,The curator arranged a new exhibition.,策展人籌辦了一場新展覽。,7.0
+debut,n.,首次亮相,She made her debut on stage at sixteen.,她十六歲時首次登台。,7.0
+delusion,n.,妄想,He is under the delusion that he cannot fail.,他妄想自己絕不會失敗。,7.5
+descent,n.,下降;血統,The plane began its descent.,飛機開始下降。,7.0
+domain,n.,領域,That question lies outside my domain.,那個問題不在我的專業領域內。,7.0
+drainage,n.,排水,Poor drainage floods the field.,排水不良使田地淹水。,7.0
+efficiency,n.,效率,The upgrade improved energy efficiency.,這次升級提升了能源效率。,6.5
+exclusion,n.,排除;排斥,The rule led to the exclusion of newcomers.,這條規定導致新來者被排除在外。,7.5
+existence,n.,存在,Few knew of the group's existence.,很少人知道這個團體的存在。,7.0
+exposure,n.,暴露;曝光,Long exposure to the sun damages skin.,長時間曝曬會傷害皮膚。,6.5
+extremist,n.,極端分子,The attack was blamed on extremists.,這起攻擊被歸咎於極端分子。,7.5
+facility,n.,設施,The school has excellent sports facilities.,這所學校有極佳的運動設施。,6.0
+faction,n.,派系,A small faction opposed the plan.,一個小派系反對這項計畫。,7.5
+fixture,n.,固定裝置;固定賽事,The match is a regular fixture each spring.,這場比賽是每年春天的固定賽事。,7.5
+forecast,n.,預報,The weather forecast promises sun.,天氣預報說會放晴。,6.0
+formation,n.,形成;隊形,The formation of ice damaged the pipe.,結冰使水管受損。,7.0
+frontier,n.,邊界;前沿,Science pushes the frontier of knowledge.,科學推動著知識的前沿。,7.0
+gamble,n.,賭博;冒險,Starting the business was a real gamble.,創業是一場真正的冒險。,6.5
+gauge,n.,量規;測量儀,The gauge showed the tank was empty.,儀表顯示油箱空了。,7.0
+glimpse,n.,一瞥,She caught a glimpse of the sea.,她瞥見了大海。,6.5
+havoc,n.,浩劫;大破壞,The storm wreaked havoc on the coast.,這場風暴在海岸造成嚴重破壞。,7.5
+hiatus,n.,中斷;空隙,The band returned after a long hiatus.,這個樂團在長期停擺後回歸。,7.5
+homage,n.,敬意;致敬,The film pays homage to old westerns.,這部電影向舊時的西部片致敬。,7.5
+hybrid,n.,混合物;混種,The car is a petrol and electric hybrid.,這輛車是油電混合車。,7.0
+hypocrisy,n.,偽善,Voters were tired of political hypocrisy.,選民厭倦了政治上的偽善。,7.5
+hysteria,n.,歇斯底里,The rumour caused mass hysteria.,這則謠言引發了集體恐慌。,7.5
+icon,n.,偶像;圖示,She became a cultural icon.,她成了一位文化偶像。,6.5
+illusion,n.,錯覺;幻想,The mirror creates an illusion of space.,鏡子營造出空間的錯覺。,7.0
+imitation,n.,模仿;仿製品,The bag is a cheap imitation.,這個包是廉價的仿製品。,7.0
+indicator,n.,指標,Sales are a useful indicator of demand.,銷量是需求的有用指標。,7.0
+injunction,n.,禁制令,The court issued an injunction.,法院發出了一道禁制令。,7.5
+inspector,n.,檢查員,The inspector examined the building.,檢查員檢視了這棟建築。,6.5
+instance,n.,實例,This is a clear instance of misuse.,這是一個明顯的誤用實例。,6.5
+intention,n.,意圖,She had no intention of leaving.,她根本無意離開。,6.0
+intrigue,n.,陰謀;興趣,The palace was full of intrigue.,這座宮殿裡充滿陰謀。,7.5
+intrusion,n.,侵擾;闖入,He apologized for the intrusion.,他為打擾致歉。,7.5
+judgment,n.,判斷;評價,I trust her judgment on this.,這件事我信任她的判斷。,6.5
+justification,n.,正當理由,There was no justification for the delay.,這次延誤毫無正當理由。,7.5
+labyrinth,n.,迷宮,The old town is a labyrinth of alleys.,舊城是一座由巷弄構成的迷宮。,7.5
+landscape,n.,風景;局面,The rolling landscape stretched for miles.,起伏的地景綿延數哩。,6.5
+leisure,n.,閒暇,She paints in her leisure time.,她在閒暇時畫畫。,6.0
+lever,n.,槓桿,Pull the lever to start the machine.,拉動槓桿以啟動機器。,6.5
+lifetime,n.,一生,He saw great changes in his lifetime.,他一生中見證了巨大的變化。,6.5
+limitation,n.,限制,Every method has its limitations.,每種方法都有其局限。,6.5
+livelihood,n.,生計,Fishing is their main livelihood.,捕魚是他們主要的生計。,7.0
+machinery,n.,機器;機構,The factory installed new machinery.,工廠裝設了新機器。,6.5
+magnet,n.,磁鐵;有吸引力之物,The city is a magnet for tourists.,這座城市是遊客的磁石。,6.5
+marvel,n.,奇蹟;驚奇,The bridge is a marvel of engineering.,這座橋是工程上的奇蹟。,7.0
+massacre,n.,屠殺,The massacre shocked the world.,這場屠殺震驚了全世界。,7.5
+mechanic,n.,技工,The mechanic fixed the brakes.,技工修好了煞車。,6.0
+mileage,n.,里程,The car has low mileage.,這輛車的里程數很低。,6.5
+moderation,n.,適度,Enjoy sweets in moderation.,甜食要適量享用。,7.0
+necessity,n.,必需品;必要,Water is a basic necessity.,水是基本的必需品。,6.5
+novice,n.,新手,As a novice she asked many questions.,身為新手她問了許多問題。,7.0
+objective,n.,目標,Our main objective is customer trust.,我們的主要目標是顧客的信任。,6.5
+obstruction,n.,阻礙物,An obstruction blocked the pipe.,一個阻塞物堵住了管子。,7.0
+omission,n.,遺漏,The omission of her name was an error.,漏掉她的名字是個失誤。,7.5
+panorama,n.,全景,The tower offers a panorama of the city.,這座塔可俯瞰全城景色。,7.0
+participant,n.,參與者,Each participant received a certificate.,每位參與者都獲得一張證書。,6.5
+precaution,n.,預防措施,Take precautions against theft.,採取措施防範竊盜。,7.0
+precedent,n.,先例,The ruling set an important precedent.,這項裁決樹立了重要先例。,7.5
+precision,n.,精確,The parts are made with great precision.,這些零件以極高的精度製造。,7.0
+predecessor,n.,前任,She continued her predecessor's work.,她延續了前任的工作。,7.5
+preference,n.,偏好,Please state your seating preference.,請說明你偏好的座位。,6.0
+prevention,n.,預防,Prevention is better than cure.,預防勝於治療。,6.5
+procedure,n.,程序,Follow the correct safety procedure.,請遵循正確的安全程序。,6.5
+profession,n.,職業;專業,Teaching is a rewarding profession.,教學是一份有成就感的職業。,6.0
+protocol,n.,協定;禮儀,The countries signed a new protocol.,兩國簽署了一項新協定。,7.0
+reaction,n.,反應,Her first reaction was surprise.,她的第一反應是驚訝。,6.0
+reflection,n.,反射;反思,The lake gave a perfect reflection.,湖面呈現出完美的倒影。,6.5
+refusal,n.,拒絕,His refusal surprised everyone.,他的拒絕令所有人意外。,6.5
+resemblance,n.,相似,The resemblance between them is striking.,他們之間的相似令人吃驚。,7.0
+residue,n.,殘留物,A sticky residue was left on the pan.,鍋子上留下了黏黏的殘留物。,7.5
+scope,n.,範圍,The project grew beyond its original scope.,這個專案的規模超出了原本的範圍。,7.0
+significance,n.,重要性;意義,No one grasped the significance at the time.,當時無人領會其重要性。,7.0
+stimulus,n.,刺激;激勵,The grant acted as a stimulus for research.,這筆補助對研究起了激勵作用。,7.5
+tactics,n.,戰術;策略,The coach changed his tactics at halftime.,教練在中場休息時改變了戰術。,7.0
+tenure,n.,任期;終身職,During her tenure the school flourished.,在她任內學校蓬勃發展。,7.5
+trait,n.,特徵,Kindness is her most obvious trait.,善良是她最明顯的特質。,7.0
+trajectory,n.,軌跡;發展路徑,The company is on an upward trajectory.,這家公司正走在上升的軌道上。,7.5
+usage,n.,用法;使用量,The dictionary explains modern usage.,這本詞典解說了現代用法。,6.5
+violation,n.,違反,Speeding is a traffic violation.,超速是一種交通違規。,6.5
+assess,v.,評估,Teachers assess students at the end of term.,老師在學期末評量學生。,6.5
+bolster,v.,增強;支持,The win bolstered their confidence.,這場勝利增強了他們的信心。,7.5
+mimic,v.,模仿,Some birds can mimic human speech.,有些鳥能模仿人類說話。,7.0
+originate,v.,起源,The custom originated in ancient times.,這個習俗起源於古代。,7.0
+perceive,v.,察覺;認為,She perceived a change in his tone.,她察覺到他語氣的變化。,7.0
+exhaust,v.,使精疲力竭;耗盡,The long hike exhausted them.,漫長的健行讓他們筋疲力盡。,6.5
+embarrass,v.,使尷尬,His question embarrassed her.,他的問題讓她很尷尬。,6.0
+awaken,v.,喚醒,The noise awakened the whole house.,那聲響吵醒了全家人。,7.0
+disappoint,v.,使失望,The ending disappointed many fans.,結局讓許多粉絲失望。,6.0
+surround,v.,包圍,Trees surround the small lake.,樹木環繞著這座小湖。,6.0
+operate,v.,操作;運作,She knows how to operate the machine.,她知道如何操作這台機器。,6.0
+recreate,v.,重現,The museum recreates a village from the past.,這座博物館重現了昔日的村莊。,7.0
+recover,v.,康復;取回,He recovered quickly after the operation.,手術後他很快康復。,6.0
+rebuild,v.,重建,The town was rebuilt after the fire.,火災後這座小鎮重建了。,6.5
+transfer,v.,轉移;調動,She transferred to another department.,她調到了另一個部門。,6.5
+involve,v.,牽涉;使參與,The job involves a lot of travel.,這份工作需要經常出差。,6.0
+accuse,v.,指控,They accused him of cheating.,他們指控他作弊。,6.5
+succeed,v.,成功;繼任,She succeeded in passing the exam.,她成功通過了考試。,6.0
+refer,v.,提及;參照,Please refer to the manual.,請參閱手冊。,6.0
+perform,v.,表演;執行,The band performed to a full house.,樂團在座無虛席的場地演出。,6.0
+resource,n.,資源,Water is a precious resource.,水是珍貴的資源。,6.0
+personality,n.,個性,She has a warm and open personality.,她有著溫暖開朗的個性。,6.0
+option,n.,選擇,You have three options to choose from.,你有三個選項可以挑選。,6.0
+origin,n.,起源,The word has a Latin origin.,這個字源自拉丁文。,6.5
+resistance,n.,抵抗;阻力,The plan met strong resistance.,這項計畫遭到強烈抵抗。,6.5
+possession,n.,擁有;所有物,The keys are in her possession.,鑰匙在她手上。,6.5
+suspension,n.,暫停;懸吊,The player faces a two match suspension.,這名球員面臨兩場禁賽。,7.0
+submission,n.,提交;順從,The deadline for submission is Friday.,繳交的截止日是週五。,7.0
+valid,adj.,有效的;正當的,Your ticket is valid for one month.,你的票一個月內有效。,6.5
+visual,adj.,視覺的,The app relies on strong visual design.,這款應用程式仰賴出色的視覺設計。,6.5
